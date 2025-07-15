@@ -1,0 +1,2000 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2025-04-17T13:50:10Z
+WARC-Record-ID: <urn:uuid:7cd96d88-0017-4446-8d17-4518dc8c22ec>
+Content-Length: 487
+Content-Type: application/warc-fields
+WARC-Filename: CC-MAIN-20250417135010-20250417165010-00065.warc.gz
+
+isPartOf: CC-MAIN-2025-18
+publisher: Common Crawl
+description: Wide crawl of the web for April 2025
+operator: Common Crawl Admin (info@commoncrawl.org)
+hostname: ip-10-67-67-28
+software: Apache Nutch 1.20 (modified, https://github.com/commoncrawl/nutch/)
+robots: checked via crawler-commons 1.5-SNAPSHOT (https://github.com/crawler-commons/crawler-commons)
+format: WARC File Format 1.1
+conformsTo: https://iipc.github.io/warc-specifications/specifications/warc-format/warc-1.1/
+
+
+WARC/1.0
+WARC-Type: request
+WARC-Date: 2025-04-17T14:56:33Z
+WARC-Record-ID: <urn:uuid:8c087fc9-8521-49ae-b5a3-4a93f89ff682>
+Content-Length: 312
+Content-Type: application/http; msgtype=request
+WARC-Warcinfo-ID: <urn:uuid:7cd96d88-0017-4446-8d17-4518dc8c22ec>
+WARC-IP-Address: 154.85.233.132
+WARC-Target-URI: http://0371rykj.com/ipfhsb/34.html
+WARC-Protocol: http/1.1
+
+GET /ipfhsb/34.html HTTP/1.1
+User-Agent: CCBot/2.0 (https://commoncrawl.org/faq/)
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+If-Modified-Since: Mon, 09 Dec 2024 16:27:57 GMT
+Accept-Encoding: br,gzip
+Host: 0371rykj.com
+Connection: Keep-Alive
+
+
+
+WARC/1.0
+WARC-Type: response
+WARC-Date: 2025-04-17T14:56:33Z
+WARC-Record-ID: <urn:uuid:c2d1a8c1-6724-4f42-af88-1f9cbf5e6b3d>
+Content-Length: 49275
+Content-Type: application/http; msgtype=response
+WARC-Warcinfo-ID: <urn:uuid:7cd96d88-0017-4446-8d17-4518dc8c22ec>
+WARC-Concurrent-To: <urn:uuid:8c087fc9-8521-49ae-b5a3-4a93f89ff682>
+WARC-IP-Address: 154.85.233.132
+WARC-Target-URI: http://0371rykj.com/ipfhsb/34.html
+WARC-Protocol: http/1.1
+WARC-Payload-Digest: sha1:QRB4PRBO4ISKZ2R7FTTKK2HSFZPBRCPH
+WARC-Block-Digest: sha1:EG5SMBVSDDLVPETNUZNUQCL23C573D2T
+WARC-Identified-Payload-Type: text/html
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 17 Apr 2025 14:56:33 GMT
+Content-Type: text/html
+X-Crawler-Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+X-Crawler-Content-Encoding: gzip
+Content-Length: 49037
+
+<!DOCTYPE html>
+<html>
+ <head> 
+   <meta charset="UTF-8">
+  
+  <title>&#x4EBA;&#x59BB;&#x2C;&#x56FD;&#x5185;&#x8001;&#x719F;&#x5987;&#x5BF9;&#x767D;&#x48;&#x44;&#x58;&#x58;&#x58;&#x58;&#x2C;&#x4E9A;&#x6D32;&#x41;&#x56;&#x65E0;&#x7801;&#x4E00;&#x533A;&#x4E1C;&#x4EAC;&#x70ED;&#x4E45;&#x4E45;&#x0D;</title>
+  <meta name="keywords" content="&#x4EBA;&#x59BB;&#x2C;&#x56FD;&#x5185;&#x8001;&#x719F;&#x5987;&#x5BF9;&#x767D;&#x48;&#x44;&#x58;&#x58;&#x58;&#x58;&#x2C;&#x4E9A;&#x6D32;&#x41;&#x56;&#x65E0;&#x7801;&#x4E00;&#x533A;&#x4E1C;&#x4EAC;&#x70ED;&#x4E45;&#x4E45;&#x0D;" />
+  <meta name="description" content="&#x4EBA;&#x59BB;&#x2C;&#x56FD;&#x5185;&#x8001;&#x719F;&#x5987;&#x5BF9;&#x767D;&#x48;&#x44;&#x58;&#x58;&#x58;&#x58;&#x2C;&#x4E9A;&#x6D32;&#x41;&#x56;&#x65E0;&#x7801;&#x4E00;&#x533A;&#x4E1C;&#x4EAC;&#x70ED;&#x4E45;&#x4E45;&#x0D;&#x2C;&#x39;&#x39;&#x39;&#x4E45;&#x4E45;&#x4E45;&#x514D;&#x8D39;&#x7CBE;&#x54C1;&#x56FD;&#x4EA7;&#x2C;&#x56FD;&#x4EA7;&#x7CBE;&#x54C1;&#x6210;&#x4EBA;&#x56FD;&#x4EA7;&#x4E71;&#x2C;&#x8089;&#x8272;&#x8D85;&#x8584;&#x4E1D;&#x889C;&#x811A;&#x4EA4;&#x4E00;&#x533A;&#x4E8C;&#x533A;" />
+ 
+ 
+  
+ <link href="/style/css/animate.min.css" type="text/css" rel="stylesheet" /> 
+     <link href="/style/css/resetcommon.css" rel="stylesheet" type="text/css" /> 
+     <link href="/style/css/style.css" type="text/css" rel="stylesheet" />
+<script type="text/javascript" src="/style/js/js.js"></script> 
+  <script type="text/javascript" src="/style/js/scrollbar.js"></script>
+	 <link rel="stylesheet" type="text/css" href="/style/css/xzoom.css" media="all" /> 
+	<script src="/style/js/jquery.js" type="text/javascript"></script> 
+	<script type="text/javascript" src="/style/js/xzoom.min.js"></script>
+ <meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+<script>var V_PATH="/";window.onerror=function(){ return true; };</script>
+</head> 
+ <body>
+<h1><a href="http://0371rykj.com/">&#x4E45;&#x4E45;&#x4E45;&#x4E45;&#x5973;&#x4EBA;&#x7CBE;&#x54C1;&#x6BDB;&#x7247;&#x2C;&#x39;&#x39;&#x4E45;&#x4E45;&#x7CBE;&#x54C1;&#x65E0;&#x7801;&#x4E00;&#x533A;&#x4E8C;&#x533A;&#x6BDB;&#x7247;&#x2C;&#x88AB;&#x8001;&#x5916;&#x7684;&#x53C8;&#x7C97;&#x53C8;&#x5927;&#x65E5;&#x51FA;&#x4E86;&#x6C34;&#x2C;&#x4E00;&#x8FB9;&#x5403;&#x5976;&#x4E00;&#x8FB9;&#x54ED;&#x4E71;&#x62BB;&#x53C8;&#x4E71;&#x626D;</a></h1>
+<div id="gckmo" class="pl_css_ganrao" style="display: none;"><sup id="gckmo"></sup><optgroup id="gckmo"></optgroup><rt id="gckmo"></rt><blockquote id="gckmo"></blockquote><center id="gckmo"><pre id="gckmo"><xmp id="gckmo"></xmp></pre></center><optgroup id="gckmo"></optgroup><kbd id="gckmo"></kbd><bdo id="gckmo"></bdo><nav id="gckmo"></nav><tbody id="gckmo"><button id="gckmo"><samp id="gckmo"></samp></button></tbody><dl id="gckmo"></dl><table id="gckmo"></table><pre id="gckmo"></pre><dd id="gckmo"><th id="gckmo"><menu id="gckmo"></menu></th></dd><acronym id="gckmo"><dd id="gckmo"><th id="gckmo"></th></dd></acronym><xmp id="gckmo"></xmp><ul id="gckmo"><pre id="gckmo"><dd id="gckmo"></dd></pre></ul><acronym id="gckmo"></acronym><pre id="gckmo"><blockquote id="gckmo"><dl id="gckmo"></dl></blockquote></pre><tbody id="gckmo"><object id="gckmo"><strong id="gckmo"></strong></object></tbody><small id="gckmo"></small><object id="gckmo"></object><blockquote id="gckmo"></blockquote><strike id="gckmo"><nav id="gckmo"><li id="gckmo"></li></nav></strike><menu id="gckmo"><kbd id="gckmo"><acronym id="gckmo"></acronym></kbd></menu><pre id="gckmo"></pre><pre id="gckmo"><td id="gckmo"><fieldset id="gckmo"></fieldset></td></pre><th id="gckmo"></th><abbr id="gckmo"><ul id="gckmo"><tbody id="gckmo"></tbody></ul></abbr><noscript id="gckmo"><center id="gckmo"><xmp id="gckmo"></xmp></center></noscript><source id="gckmo"></source><tbody id="gckmo"></tbody><dfn id="gckmo"></dfn><kbd id="gckmo"></kbd><pre id="gckmo"><center id="gckmo"><dl id="gckmo"></dl></center></pre><rt id="gckmo"></rt><noscript id="gckmo"></noscript><pre id="gckmo"></pre><noframes id="gckmo"></noframes><delect id="gckmo"><tr id="gckmo"><td id="gckmo"></td></tr></delect><pre id="gckmo"></pre><samp id="gckmo"><tbody id="gckmo"><object id="gckmo"></object></tbody></samp><li id="gckmo"></li><option id="gckmo"></option><blockquote id="gckmo"></blockquote><source id="gckmo"></source><tfoot id="gckmo"></tfoot><cite id="gckmo"></cite><table id="gckmo"></table><input id="gckmo"><tbody id="gckmo"><button id="gckmo"></button></tbody></input><li id="gckmo"><pre id="gckmo"><wbr id="gckmo"></wbr></pre></li><dl id="gckmo"></dl><acronym id="gckmo"></acronym><nav id="gckmo"></nav><button id="gckmo"></button><table id="gckmo"><abbr id="gckmo"><sup id="gckmo"></sup></abbr></table><tbody id="gckmo"></tbody><xmp id="gckmo"></xmp><nav id="gckmo"></nav><s id="gckmo"></s><menu id="gckmo"><noscript id="gckmo"><em id="gckmo"></em></noscript></menu><menu id="gckmo"><li id="gckmo"><acronym id="gckmo"></acronym></li></menu><small id="gckmo"></small><dl id="gckmo"></dl><li id="gckmo"><option id="gckmo"><xmp id="gckmo"></xmp></option></li><samp id="gckmo"><tbody id="gckmo"><source id="gckmo"></source></tbody></samp><center id="gckmo"><dd id="gckmo"><strike id="gckmo"></strike></dd></center><fieldset id="gckmo"></fieldset><tr id="gckmo"></tr><optgroup id="gckmo"></optgroup><dd id="gckmo"><th id="gckmo"><nav id="gckmo"></nav></th></dd><th id="gckmo"><menu id="gckmo"><li id="gckmo"></li></menu></th><fieldset id="gckmo"><table id="gckmo"><abbr id="gckmo"></abbr></table></fieldset><small id="gckmo"></small><ul id="gckmo"></ul><dd id="gckmo"><th id="gckmo"><s id="gckmo"></s></th></dd><dd id="gckmo"><cite id="gckmo"><nav id="gckmo"></nav></cite></dd><th id="gckmo"></th><nav id="gckmo"></nav><small id="gckmo"></small><th id="gckmo"></th><li id="gckmo"><center id="gckmo"><wbr id="gckmo"></wbr></center></li><bdo id="gckmo"><option id="gckmo"><delect id="gckmo"></delect></option></bdo><button id="gckmo"></button><blockquote id="gckmo"><tfoot id="gckmo"><input id="gckmo"></input></tfoot></blockquote><pre id="gckmo"></pre><blockquote id="gckmo"></blockquote><dd id="gckmo"><cite id="gckmo"><menu id="gckmo"></menu></cite></dd><acronym id="gckmo"><xmp id="gckmo"><th id="gckmo"></th></xmp></acronym><li id="gckmo"><pre id="gckmo"><wbr id="gckmo"></wbr></pre></li><nav id="gckmo"></nav><tbody id="gckmo"></tbody><source id="gckmo"></source><tr id="gckmo"></tr><object id="gckmo"></object><tr id="gckmo"></tr><noframes id="gckmo"><ul id="gckmo"><center id="gckmo"></center></ul></noframes><dfn id="gckmo"></dfn><delect id="gckmo"><strike id="gckmo"><rt id="gckmo"></rt></strike></delect><noscript id="gckmo"></noscript><tbody id="gckmo"><source id="gckmo"><small id="gckmo"></small></source></tbody><option id="gckmo"></option><blockquote id="gckmo"></blockquote><tr id="gckmo"><rt id="gckmo"><code id="gckmo"></code></rt></tr><abbr id="gckmo"></abbr><acronym id="gckmo"></acronym><cite id="gckmo"></cite><del id="gckmo"></del><tr id="gckmo"></tr><td id="gckmo"><fieldset id="gckmo"><input id="gckmo"></input></fieldset></td><source id="gckmo"></source><abbr id="gckmo"></abbr><abbr id="gckmo"></abbr><pre id="gckmo"></pre><small id="gckmo"></small><optgroup id="gckmo"></optgroup><th id="gckmo"></th><optgroup id="gckmo"></optgroup><dl id="gckmo"></dl><wbr id="gckmo"><th id="gckmo"><nav id="gckmo"></nav></th></wbr><td id="gckmo"><fieldset id="gckmo"><optgroup id="gckmo"></optgroup></fieldset></td><optgroup id="gckmo"></optgroup><code id="gckmo"><table id="gckmo"><abbr id="gckmo"></abbr></table></code><s id="gckmo"><code id="gckmo"><em id="gckmo"></em></code></s><xmp id="gckmo"></xmp><em id="gckmo"></em><dd id="gckmo"></dd><nav id="gckmo"></nav><center id="gckmo"></center><delect id="gckmo"><dfn id="gckmo"><rt id="gckmo"></rt></dfn></delect><noscript id="gckmo"><option id="gckmo"><xmp id="gckmo"></xmp></option></noscript><cite id="gckmo"><menu id="gckmo"><li id="gckmo"></li></menu></cite><blockquote id="gckmo"></blockquote><optgroup id="gckmo"></optgroup><fieldset id="gckmo"><table id="gckmo"><del id="gckmo"></del></table></fieldset><blockquote id="gckmo"></blockquote><cite id="gckmo"></cite><nav id="gckmo"></nav><fieldset id="gckmo"></fieldset><noscript id="gckmo"><option id="gckmo"><delect id="gckmo"></delect></option></noscript><th id="gckmo"></th><s id="gckmo"></s><small id="gckmo"></small><del id="gckmo"></del><source id="gckmo"></source><td id="gckmo"><dl id="gckmo"><optgroup id="gckmo"></optgroup></dl></td><del id="gckmo"></del><small id="gckmo"></small><center id="gckmo"></center><rt id="gckmo"></rt></div> 
+  <style type="text/css">
+	 .cur34{
+   background: #149ca3;
+    text-decoration: none;
+}
+ </style>
+<noscript> 
+<iframe src="*.htm"></iframe> 
+</noscript> 
+<script language="Javascript"> 
+document.oncontextmenu=new Function("event.returnValue=false"); 
+document.onselectstart=new Function("event.returnValue=false"); 
+</script> 
+ <div   id="yu02gqs"   class="t_bg"> 
+   <div   id="ueewmgq"   class="header"> 
+    <div   id="ki2io2s"   class="h_top"> 
+    <h1 style="font-size:12px;    float: left;">æ’æº«æ’æ¿•è©¦é©—(yÃ n)ç®±</h1>
+	<a  title="åœ¨ç·š(xiÃ n)å’¨è©¢(xÃºn)" style="float: right"rel="nofollow" target="_blank">åœ¨ç·š(xiÃ n)å’¨è©¢(xÃºn)</a>
+    </div> 
+    <div   id="acwqiug"   class="h_con" style="    padding-top: 36px;    height: 90px;"> 
+     <a href="/" title="æ·‹é›¨è©¦é©—(yÃ n)ç®±" rel="nofollow" style="float: left;"> <img src="/style/images/logo.png" alt="æ·‹é›¨è©¦é©—(yÃ n)ç®±" width="230"  /></a> 
+     <p style="padding:0;"><b>ä¸Šæµ·æ—é »å„€å™¨è‚¡ä»½æœ‰é™å…¬å¸</b>Shanghai Linpin Instrument Stock Co Ltd</p> 
+     <p style=" padding: 0;float: right;width: 300px;text-align: right;color: #1b5171;    font-family: Arial;font-size: 20px;color: #29486e;margin-left: 0 !important;">æœå‹™(wÃ¹)ç†±ç·š(xiÃ n)ï¼š4000 662 888 <br /> æ‰‹æ©Ÿ(jÄ«)å’¨è©¢(xÃºn)ï¼š13818467052</p>
+    </div> 
+    <div   id="m0ccusi"   class="h_nav"> 
+     <ul> 
+	
+      <li><a href="/" title="æ·‹é›¨è©¦é©—(yÃ n)ç®±" rel="nofollow">é¦–é (yÃ¨)</a></li> 
+	
+	<li>
+	  <a class='cur1' href="http://0371rykj.com/products/" title="æ—é »ç”¢(chÇn)å“">æ—é »ç”¢(chÇn)å“</a>
+
+	  <ul style="display: none;">
+		<li><a href="/syx">è©¦é©—(yÃ n)ç®±ç³»åˆ—</a></li><li><a href="/lhsyx">è€åŒ–ç®±ç³»åˆ—</a></li><li><a href="/fbdz">éæ¨™(biÄo)å®šåˆ¶ç³»åˆ—</a></li><li><a href="/ipfhsb">ipé˜²è­·(hÃ¹)ç³»åˆ—</a></li><li><a href="/zddl">æŒ¯å‹•(dÃ²ng)è·Œè½ç³»åˆ—</a></li> 
+	  </ul>
+
+	  </li><li>
+	  <a class='cur6' href="http://0371rykj.com/success/" title="æˆåŠŸæ¡ˆä¾‹">æˆåŠŸæ¡ˆä¾‹</a>
+
+	  <ul style="display: none;">
+		 
+	  </ul>
+
+	  </li><li>
+	  <a class='cur4' href="http://0371rykj.com/news/" title="æ–°èä¸­å¿ƒ">æ–°èä¸­å¿ƒ</a>
+
+	  <ul style="display: none;">
+		<li><a href="/lpnews">æ—é »æ–°è</a></li><li><a href="/hynews">è¡Œæ¥­(yÃ¨)æ–°è</a></li><li><a href="/why">å¸¸è¦‹(jiÃ n)å•(wÃ¨n)é¡Œ</a></li> 
+	  </ul>
+
+	  </li><li>
+	  <a class='cur5' href="http://0371rykj.com/solution/" title="è§£æ±ºæ–¹æ¡ˆ">è§£æ±ºæ–¹æ¡ˆ</a>
+
+	  <ul style="display: none;">
+		 
+	  </ul>
+
+	  </li><li>
+	  <a class='cur2' href="http://0371rykj.com/guanyulinpin/" title="é—œ(guÄn)äºæ—é »">é—œ(guÄn)äºæ—é »</a>
+
+	  <ul style="display: none;">
+		 
+	  </ul>
+
+	  </li><li>
+	  <a class='cur3' href="http://0371rykj.com/fuwuzhichi/" title="æœå‹™(wÃ¹)æ”¯æŒ">æœå‹™(wÃ¹)æ”¯æŒ</a>
+
+	  <ul style="display: none;">
+		 
+	  </ul>
+
+	  </li><li>
+	  <a class='cur7' href="http://0371rykj.com/lianxiwomen/" title="è¯(liÃ¡n)ç³»æˆ‘å€‘">è¯(liÃ¡n)ç³»æˆ‘å€‘</a>
+
+	  <ul style="display: none;">
+		 
+	  </ul>
+
+	  </li> 
+
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+<script type="text/javascript">
+	$(function(){
+		$('.h_nav ul li').mouseover(function(){
+			$(this).children().show();
+			
+		}).mouseout(function(){
+		
+		$('.h_nav ul li').children("ul").hide();
+		})
+	
+	})
+</script>
+  <div   id="qqimsee"   class="topadcs"> 
+   <div   id="esi0msg"   class="fullad" style="background:url(/style/images/pic4.jpg) no-repeat center top;background-size: 100%;">
+   </div>
+  </div> 
+  <div   id="koimggw"   class="bread bread1 bread2"> 
+    <div   id="u0o0yoa"   class="bd_con"> 
+  
+       <div   id="2wqcigs"   class="bd_rt plc"> 
+		   <div   id="4oagmyy"   class="nszdwz">
+		    æ‚¨æ‰€åœ¨çš„ä½ç½®ï¼š
+			 
+			 <ul class="breadcrumbs">
+			 <a href='http://0371rykj.com/'>æ’æº«æ’æ¿•è©¦é©—(yÃ n)ç®±</a> > <a href='http://0371rykj.com/products/'>æ—é »ç”¢(chÇn)å“</a> > <a href='http://0371rykj.com/ipfhsb/'>ipé˜²è­·(hÃ¹)ç³»åˆ—</a> > 
+			 </ul> 
+			</div> 
+       </div>
+		<div>
+			<form method="post" action="/plus/search.php" name="formsearch" style="float:right;">	
+			 <input type="hidden" name="typeid" value="1">
+             <input name="q" type="text" id="search01" value="" > 
+			 <input type="submit" value="æœç´¢" id="search02" />	
+			</form>
+		</div>
+    </div>
+  </div>
+  <div   id="4mu00ua"   class="content">
+   <div   id="4kmqw00"   class="rightl animated fadeInRightBig">
+    <div   id="scauo0e"   class="pro_main">
+     <div   id="socuam2"   class="pro_t"> 
+       <h3>ç”¢(chÇn)å“è©³æƒ…<span>/ products details</span></h3>
+     </div>
+     <div   class="00ugwkm"   id="ScollName26">
+      <dl>
+       <dt>
+			<section id="default" class="padding-top0">
+		    <div   id="2y0i0my"   class="row">
+		      <div   id="qogmq0g"   class="large-5 column">
+		        <div   id="gosogk0"   class="xzoom-container">
+		          <img class="xzoom" id="xzoom-default" src="/uploads/180712/1-1PG2161142340.jpg" width="364" xoriginal="/uploads/180712/1-1PG2161142340.jpg" />
+		          <div   id="me200w0"   class="xzoom-thumbs">
+		            <a href="/uploads/180712/1-1PG2161142340.jpg"><img class="xzoom-gallery" width="80" src="/uploads/180712/1-1PG2161142340.jpg"   title=""></a>
+		            <a href="/uploads/180712/1-1PG2161156230.jpg"><img class="xzoom-gallery" width="80" src="/uploads/180712/1-1PG2161156230.jpg" title=""></a>
+		            <a href="/uploads/180712/1-1PG216120K60.jpg"><img class="xzoom-gallery" width="80" src="/uploads/180712/1-1PG216120K60.jpg" title=""></a>
+		            <a href="/uploads/180712/1-1PG216121LW.jpg"><img class="xzoom-gallery" width="80" src="/uploads/180712/1-1PG216121LW.jpg" title=""></a>
+		          </div>
+		        </div>        
+		      </div>
+		      <div   id="kqkagsa"   class="large-7 column"></div>
+		    </div>
+		</section>
+
+	<div style="clear:both;"></div>
+       </dt>
+       <dd>
+        <h2><a title="">æ’æº«æ’æ¿•è©¦é©—(yÃ n)ç®±</a></h2>
+        <ul>
+		<li>ç”¢(chÇn)å“ç”¨é€”</li>
+         <li>æ’æº«æ’æ¿•è©¦é©—(yÃ n)ç®±æ˜¯èˆªç©ºã€æ±½è»Š(chÄ“)ã€å®¶é›»ã€ç§‘ç ”ç­‰é ˜(lÇng)åŸŸå¿…å‚™çš„æ¸¬(cÃ¨)è©¦è¨­(shÃ¨)å‚™ï¼Œç”¨äºæ¸¬(cÃ¨)è©¦å’Œç¢ºå®šé›»å·¥ã€é›»å­åŠå…¶ä»–ç”¢(chÇn)å“åŠææ–™é€²(jÃ¬n)è¡Œé«˜æº«ã€ä½æº«ã€æ¿•ç†±åº¦æˆ–æ’å®šè©¦é©—(yÃ n)çš„æº«åº¦ç’°(huÃ¡n)å¢ƒè®ŠåŒ–åçš„åƒæ•¸(shÃ¹)åŠæ€§èƒ½ã€‚...</li>
+        </ul>
+        <div   id="em0suwi"   class="ljxq">
+         <a title="" href="/swt/">äº†è§£è©³æƒ…</a>
+         <a rel="nofollow" href="/swt/" title="ç«‹å³å’¨è©¢(xÃºn)" target="_blank">ç«‹å³å’¨è©¢(xÃºn)</a>
+         <div   id="0skou0i"   class="clear"></div>
+        </div>
+       </dd>
+      </dl>
+     </div> 
+
+    
+     <div   id="i0quwyy"   class="pro_t pro_t2"> 
+      <h3>ç”¢(chÇn)å“åƒæ•¸(shÃ¹)<span> / parameter </span></h3>
+     </div>
+     <div   id="00kkkaq"   class="clear"></div>
+		
+		<div   id="msaogi2"   class="product_center">
+			<table align="center" class="gridtable" style="border-color: rgb(102, 102, 102); font-size: 11px; margin-top: 10px; font-family: verdana, arial, sans-serif; color: rgb(51, 51, 51); border-collapse: collapse;" width="100%">
+	<tbody>
+		<tr class="text-center">
+			<td colspan="2" style="border-style: solid; border-color: rgb(102, 102, 102); margin: 0px; padding: 8px; font-size: 14px; text-align: center;">
+				è¨­(shÃ¨)å‚™å‹è™Ÿ(hÃ o)</td>
+			<td style="border-style: solid; border-color: rgb(102, 102, 102); margin: 0px; padding: 8px; font-size: 14px; text-align: center;">
+				å·¥ä½œå®¤å°ºå¯¸(D*W*H)mm</td>
+			<td style="border-style: solid; border-color: rgb(102, 102, 102); margin: 0px; padding: 8px; font-size: 14px; text-align: center;">
+				å¤–å‹å°ºå¯¸(D*W*H)mm</td>
+		</tr>
+		<tr class="text-center">
+			<td colspan="2" style="border-style: solid; border-color: rgb(102, 102, 102); margin: 0px; padding: 8px; font-size: 14px; text-align: center;">
+				LRHS-101-LH</td>
+			<td style="border-style: solid; border-color: rgb(102, 102, 102); margin: 0px; padding: 8px; font-size: 14px; text-align: center;">
+				450&times;450&times;500</td>
+			<td style="border-style: solid; border-color: rgb(102, 102, 102); margin: 0px; padding: 8px; font-size: 14px; text-align: center;">
+				1160&times;1000&times;1610</td>
+		</tr>
+		<tr class="text-center">
+			<td colspan="2" style="border-style: solid; border-color: rgb(102, 102, 102); margin: 0px; padding: 8px; font-size: 14px; text-align: center;">
+				LRHS-225-LH</td>
+			<td style="border-style: solid; border-color: rgb(102, 102, 102); margin: 0px; padding: 8px; font-size: 14px; text-align: center;">
+				500&times;600&times;750</td>
+			<td style="border-style: solid; border-color: rgb(102, 102, 102); margin: 0px; padding: 8px; font-size: 14px; text-align: center;">
+				1210&times;1150&times;1870</td>
+		</tr>
+		<tr class="text-center">
+			<td colspan="2" style="border-style: solid; border-color: rgb(102, 102, 102); margin: 0px; padding: 8px; font-size: 14px; text-align: center;">
+				LRHS-504-LH</td>
+			<td style="border-style: solid; border-color: rgb(102, 102, 102); margin: 0px; padding: 8px; font-size: 14px; text-align: center;">
+				700&times;800&times;900</td>
+			<td style="border-style: solid; border-color: rgb(102, 102, 102); margin: 0px; padding: 8px; font-size: 14px; text-align: center;">
+				1260&times;1340&times;2070</td>
+		</tr>
+		<tr class="text-center">
+			<td colspan="2" style="border-style: solid; border-color: rgb(102, 102, 102); margin: 0px; padding: 8px; font-size: 14px; text-align: center;">
+				LRHS-800-LH</td>
+			<td style="border-style: solid; border-color: rgb(102, 102, 102); margin: 0px; padding: 8px; font-size: 14px; text-align: center;">
+				800&times;1000&times;1000</td>
+			<td style="border-style: solid; border-color: rgb(102, 102, 102); margin: 0px; padding: 8px; font-size: 14px; text-align: center;">
+				1370&times;1550&times;2170</td>
+		</tr>
+		<tr class="text-center">
+			<td colspan="2" style="border-style: solid; border-color: rgb(102, 102, 102); margin: 0px; padding: 8px; font-size: 14px; text-align: center;">
+				LRHS-1000-LH</td>
+			<td style="border-style: solid; border-color: rgb(102, 102, 102); margin: 0px; padding: 8px; font-size: 14px; text-align: center;">
+				1000&times;1000&times;1000</td>
+			<td style="border-style: solid; border-color: rgb(102, 102, 102); margin: 0px; padding: 8px; font-size: 14px; text-align: center;">
+				1560&times;1550&times;2170</td>
+		</tr>
+	</tbody>
+</table>
+<table align="center" class="gridtable" style="border-color: rgb(102, 102, 102); font-size: 11px; margin-top: 10px; font-family: verdana, arial, sans-serif; color: rgb(51, 51, 51); border-collapse: collapse;" width="100%">
+	<tbody>
+		<tr>
+			<td rowspan="11" style="border-style: solid; border-color: rgb(102, 102, 102); margin: 0px; padding: 8px; font-size: 14px;">
+				<br />
+				<br />
+				<br />
+				<br />
+				<br />
+				<br />
+				<br />
+				<br />
+				<br />
+				æ€§<br />
+				èƒ½<br />
+				æŒ‡<br />
+				æ¨™(biÄo)</td>
+			<td style="border-style: solid; border-color: rgb(102, 102, 102); margin: 0px; padding: 8px; font-size: 14px;">
+				æº«åº¦èŒƒåœ</td>
+			<td colspan="6" style="border-style: solid; border-color: rgb(102, 102, 102); margin: 0px; padding: 8px; font-size: 14px;">
+				0â„ƒï½150â„ƒ</td>
+		</tr>
+		<tr>
+			<td style="border-style: solid; border-color: rgb(102, 102, 102); margin: 0px; padding: 8px; font-size: 14px;">
+				æº«åº¦å‡å‹»åº¦</td>
+			<td colspan="6" style="border-style: solid; border-color: rgb(102, 102, 102); margin: 0px; padding: 8px; font-size: 14px;">
+				&le;2â„ƒï¼ˆç©ºè¼‰æ™‚(shÃ­)ï¼‰</td>
+		</tr>
+		<tr>
+			<td style="border-style: solid; border-color: rgb(102, 102, 102); margin: 0px; padding: 8px; font-size: 14px;">
+				æº«åº¦æ³¢å‹•(dÃ²ng)åº¦</td>
+			<td colspan="6" style="border-style: solid; border-color: rgb(102, 102, 102); margin: 0px; padding: 8px; font-size: 14px;">
+				&plusmn;0.5â„ƒï¼ˆç©ºè¼‰æ™‚(shÃ­)ï¼‰</td>
+		</tr>
+		<tr>
+			<td style="border-style: solid; border-color: rgb(102, 102, 102); margin: 0px; padding: 8px; font-size: 14px;">
+				æ¿•åº¦èŒƒåœ</td>
+			<td colspan="6" style="border-style: solid; border-color: rgb(102, 102, 102); margin: 0px; padding: 8px; font-size: 14px;">
+				20%ï½98% RH</td>
+		</tr>
+		<tr>
+			<td style="border-style: solid; border-color: rgb(102, 102, 102); margin: 0px; padding: 8px; font-size: 14px;">
+				æ¿•åº¦å‡å‹»åº¦</td>
+			<td colspan="6" style="border-style: solid; border-color: rgb(102, 102, 102); margin: 0px; padding: 8px; font-size: 14px;">
+				+2% -3% RH</td>
+		</tr>
+		<tr>
+			<td style="border-style: solid; border-color: rgb(102, 102, 102); margin: 0px; padding: 8px; font-size: 14px;">
+				æ¿•åº¦æ³¢å‹•(dÃ²ng)</td>
+			<td colspan="6" style="border-style: solid; border-color: rgb(102, 102, 102); margin: 0px; padding: 8px; font-size: 14px;">
+				&plusmn;2%</td>
+		</tr>
+		<tr>
+			<td style="border-style: solid; border-color: rgb(102, 102, 102); margin: 0px; padding: 8px; font-size: 14px;">
+				å‡æº«é€Ÿç‡</td>
+			<td colspan="6" style="border-style: solid; border-color: rgb(102, 102, 102); margin: 0px; padding: 8px; font-size: 14px;">
+				1.0ï½3.0â„ƒ/min</td>
+		</tr>
+		<tr>
+			<td style="border-style: solid; border-color: rgb(102, 102, 102); margin: 0px; padding: 8px; font-size: 14px;">
+				é™æº«é€Ÿç‡</td>
+			<td colspan="6" style="border-style: solid; border-color: rgb(102, 102, 102); margin: 0px; padding: 8px; font-size: 14px;">
+				0.7ï½1.0â„ƒ/min</td>
+		</tr>
+		<tr>
+			<td style="border-style: solid; border-color: rgb(102, 102, 102); margin: 0px; padding: 8px; font-size: 14px;">
+				æ™‚(shÃ­)é–“è¨­(shÃ¨)å®šèŒƒåœ</td>
+			<td colspan="6" style="border-style: solid; border-color: rgb(102, 102, 102); margin: 0px; padding: 8px; font-size: 14px;">
+				1ï½60000M</td>
+		</tr>
+		<tr>
+			<td style="border-style: solid; border-color: rgb(102, 102, 102); margin: 0px; padding: 8px; font-size: 14px;">
+				æ¸¬(cÃ¨)è©¦å­”</td>
+			<td colspan="6" style="border-style: solid; border-color: rgb(102, 102, 102); margin: 0px; padding: 8px; font-size: 14px;">
+				å®‰è£åœ¨æ©Ÿ(jÄ«)å™¨å·¦å´(cÃ¨)ï¼Œç”¨äºå¤–æ¥æ¸¬(cÃ¨)è©¦é›»æºç·š(xiÃ n)æˆ–ä¿¡è™Ÿ(hÃ o)ç·š(xiÃ n)ä½¿ç”¨</td>
+		</tr>
+		<tr>
+			<td style="border-style: solid; border-color: rgb(102, 102, 102); margin: 0px; padding: 8px; font-size: 14px;">
+				è§€(guÄn)å¯Ÿçª—</td>
+			<td colspan="6" style="border-style: solid; border-color: rgb(102, 102, 102); margin: 0px; padding: 8px; font-size: 14px;">
+				210&times;275mmæˆ–395&times;395mmï¼ˆæœ‰æ•ˆè¦–ç•Œï¼‰</td>
+		</tr>
+		<tr>
+			<td rowspan="3" style="border-style: solid; border-color: rgb(102, 102, 102); margin: 0px; padding: 8px; font-size: 14px;">
+				<br />
+				ä½¿<br />
+				ç”¨<br />
+				æ<br />
+				æ–™</td>
+			<td style="border-style: solid; border-color: rgb(102, 102, 102); margin: 0px; padding: 8px; font-size: 14px;">
+				å¤–ç®±æè³ª(zhÃ¬)</td>
+			<td colspan="6" style="border-style: solid; border-color: rgb(102, 102, 102); margin: 0px; padding: 8px; font-size: 14px;">
+				å„ª(yÅu)è³ª(zhÃ¬)A3é‹¼æ¿éœé›»å™´å¡‘</td>
+		</tr>
+		<tr>
+			<td style="border-style: solid; border-color: rgb(102, 102, 102); margin: 0px; padding: 8px; font-size: 14px;">
+				å…§(nÃ¨i)ç®±æè³ª(zhÃ¬)</td>
+			<td colspan="6" style="border-style: solid; border-color: rgb(102, 102, 102); margin: 0px; padding: 8px; font-size: 14px;">
+				é€²(jÃ¬n)å£é«˜ç´š(jÃ­)ä¸éŠ¹é‹¼SUS304</td>
+		</tr>
+		<tr>
+			<td style="border-style: solid; border-color: rgb(102, 102, 102); margin: 0px; padding: 8px; font-size: 14px;">
+				ä¿æº«æè³ª(zhÃ¬)</td>
+			<td colspan="6" style="border-style: solid; border-color: rgb(102, 102, 102); margin: 0px; padding: 8px; font-size: 14px;">
+				ç¡¬è³ª(zhÃ¬)èšæ°¨é…¯æ³¡æ²«+ç»ç’ƒçº–ç¶­</td>
+		</tr>
+		<tr>
+			<td rowspan="4" style="border-style: solid; border-color: rgb(102, 102, 102); margin: 0px; padding: 8px; font-size: 14px;">
+				<br />
+				æ ¸<br />
+				å¿ƒ<br />
+				é…<br />
+				ç½®</td>
+			<td style="border-style: solid; border-color: rgb(102, 102, 102); margin: 0px; padding: 8px; font-size: 14px;">
+				æº«åº¦æ§åˆ¶å™¨</td>
+			<td colspan="6" style="border-style: solid; border-color: rgb(102, 102, 102); margin: 0px; padding: 8px; font-size: 14px;">
+				æ—¥æœ¬åŸè£é€²(jÃ¬n)å£&ldquo;å„ª(yÅu)æ˜“æ§&rdquo;å“ç‰Œæº«æ¿•åº¦å„€è¡¨</td>
+		</tr>
+		<tr>
+			<td style="border-style: solid; border-color: rgb(102, 102, 102); margin: 0px; padding: 8px; font-size: 14px;">
+				æº«åº¦å‚³æ„Ÿå™¨</td>
+			<td colspan="6" style="border-style: solid; border-color: rgb(102, 102, 102); margin: 0px; padding: 8px; font-size: 14px;">
+				PT100é‰‘é‡‘é›»é˜»æ¸¬(cÃ¨)æº«é«”</td>
+		</tr>
+		<tr>
+			<td style="border-style: solid; border-color: rgb(102, 102, 102); margin: 0px; padding: 8px; font-size: 14px;">
+				åˆ¶å†·æ–¹å¼</td>
+			<td colspan="6" style="border-style: solid; border-color: rgb(102, 102, 102); margin: 0px; padding: 8px; font-size: 14px;">
+				å–®æ©Ÿ(jÄ«)åˆ¶å†·</td>
+		</tr>
+		<tr>
+			<td style="border-style: solid; border-color: rgb(102, 102, 102); margin: 0px; padding: 8px; font-size: 14px;">
+				å£“ ç¸® æ©Ÿ(jÄ«)</td>
+			<td colspan="6" style="border-style: solid; border-color: rgb(102, 102, 102); margin: 0px; padding: 8px; font-size: 14px;">
+				æ³•åœ‹(guÃ³)æ³°åº·</td>
+		</tr>
+		<tr class="text-center">
+			<td colspan="2" style="border-style: solid; border-color: rgb(102, 102, 102); margin: 0px; padding: 8px; font-size: 14px;">
+				æ¨™(biÄo)æº–(zhÇ”n)é…ç½®</td>
+			<td class="text-left" colspan="6" style="border-style: solid; border-color: rgb(102, 102, 102); margin: 0px; padding: 8px; font-size: 14px;">
+				æ¿•çƒç´—å¸ƒ1å·ã€æ¨£å“æ¶2å±¤ã€é…æœ‰å‡çµ(jiÃ©)æ°´æ¥æ°´ç›¤(pÃ¡n)ï¼Œå¹¶æ’å‡ºç®±å¤–</td>
+		</tr>
+		<tr class="text-center">
+			<td colspan="2" style="border-style: solid; border-color: rgb(102, 102, 102); margin: 0px; padding: 19px 8px 8px; font-size: 14px;">
+				å®‰å…¨ä¿è­·(hÃ¹)</td>
+			<td class="text-left" colspan="6" style="border-style: solid; border-color: rgb(102, 102, 102); margin: 0px; padding: 8px; font-size: 14px;">
+				å£“ç¸®æ©Ÿ(jÄ«)é(guÃ²)ç†±ã€è¶…å£“ã€è¶…æº«ã€é¢¨(fÄ“ng)æ©Ÿ(jÄ«)é›»æ©Ÿ(jÄ«)é(guÃ²)ç†±ã€æ•´é«”è¨­(shÃ¨)å‚™æ¬ ç›¸/é€†ç›¸ æ•´é«”è¨­(shÃ¨)å‚™å®šæ™‚(shÃ­)ã€æ¼é›»ä¿è­·(hÃ¹)ã€<br />
+				é(guÃ²)è¼‰åŠçŸ­è·¯ä¿è­·(hÃ¹)</td>
+		</tr>
+		<tr class="text-center">
+			<td colspan="2" style="border-style: solid; border-color: rgb(102, 102, 102); margin: 0px; padding: 8px; font-size: 14px;">
+				é›»æºé›»å£“</td>
+			<td class="text-left" colspan="6" style="border-style: solid; border-color: rgb(102, 102, 102); margin: 0px; padding: 8px; font-size: 14px;">
+				AC380V&plusmn;10% 50Hz</td>
+		</tr>
+		<tr class="text-center">
+			<td colspan="2" style="border-style: solid; border-color: rgb(102, 102, 102); margin: 0px; padding: 8px; font-size: 14px;">
+				åŠŸ&nbsp;ã€€&nbsp;ç‡</td>
+			<td class="text-left" style="border-style: solid; border-color: rgb(102, 102, 102); margin: 0px; padding: 8px; font-size: 14px;">
+				4.0KW/5.5KW/8.5KW/11.5KW/11.5KW</td>
+		</tr>
+		<tr class="text-center">
+			<td colspan="2" style="border-style: solid; border-color: rgb(102, 102, 102); margin: 0px; padding: 8px; font-size: 14px;">
+				ä½¿ç”¨ç’°(huÃ¡n)å¢ƒ</td>
+			<td class="text-left" colspan="6" style="border-style: solid; border-color: rgb(102, 102, 102); margin: 0px; padding: 8px; font-size: 14px;">
+				5â„ƒï½ï¼‹28â„ƒ &le;85% RH</td>
+		</tr>
+		<tr>
+			<td colspan="8" style="border-style: solid; border-color: rgb(102, 102, 102); margin: 0px; padding: 8px; font-size: 14px;">
+				æ³¨ï¼š<br />
+				1ã€ä»¥ä¸Šæ•¸(shÃ¹)æ“š(jÃ¹)å‡åœ¨ä½¿ç”¨ç’°(huÃ¡n)å¢ƒæº«åº¦ç‚º25â„ƒæ™‚(shÃ­)ä¸”é€šé¢¨(fÄ“ng)è‰¯å¥½æ¢ä»¶ä¸‹æ¸¬(cÃ¨)å¾—<br />
+				2ã€å¯æ ¹æ“š(jÃ¹)ç”¨æˆ¶(hÃ¹)å…·é«”è©¦é©—(yÃ n)è¦æ±‚éæ¨™(biÄo)å®šåˆ¶æ’æº«æ’æ¿•è©¦é©—(yÃ n)å®¤ç­‰<br />
+				3ã€æœ¬æŠ€è¡“(shÃ¹)ä¿¡æ¯ï¼Œå¦‚æœ‰è®Šå‹•(dÃ²ng)æ•ä¸å¦è¡Œé€šçŸ¥<br />
+				&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+<br />
+
+		</div>
+
+
+     <div   class="0acuwwy"   id="pagerMain" class="apage"> 
+      <div   id="coe2mag"   class="posts-nav"> 
+         <div>
+			
+			<span style="float:left">ä¸Šä¸€ç¯‡ï¼š<a href='http://0371rykj.com/ipfhsb/19.html'>æ­¦æ¼¢å†·å‡æ°´è©¦é©—(yÃ n)ç®±|å†·å‡æ°´å¯¦(shÃ­)é©—(yÃ n)ç®±|å†·å‡æ°´æ¸¬(cÃ¨)è©¦ç®±ä½¿ç”¨èªª(shuÅ)æ˜</a> </span>
+			<span style="float:right;">ä¸‹ä¸€ç¯‡ï¼š<a href='http://0371rykj.com/ipfhsb/599.html'>æ­¦æ¼¢è»æ¨™(biÄo)æ·‹é›¨è©¦é©—(yÃ n)å®¤|è»æ¨™(biÄo)æ·‹é›¨å¯¦(shÃ­)é©—(yÃ n)ç®±|è»æ¨™(biÄo)æ·‹é›¨ç®±</a> </span>
+		
+		</div>
+      </div>
+     </div>
+
+    </div>
+   </div>
+   <div   id="2aw0sg0"   class="leftr animated fadeInLeftBig">
+   <div   id="0im0wi8"   class="nyclnav fl"> 
+     <h3>ipé˜²è­·(hÃ¹)ç³»åˆ—</h3> 
+     <div   id="iumcumy"   class="nyclflbox"> 
+      <ul id="" class="nycl-nav">
+     
+       <li id="menu-item-8149" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-8149">
+	    <a href="http://0371rykj.com/syx/">è©¦é©—(yÃ n)ç®±ç³»åˆ—</a>
+			<ul class="sub-menu"> 
+			<li id="menu-item-8156" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8156">
+			 <a href="http://0371rykj.com/syx/948.html">å¾©(fÃ¹)åˆé¹½éœ§ç®±</a>
+			 </li>
+<li id="menu-item-8156" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8156">
+			 <a href="http://0371rykj.com/syx/909.html">è½‰(zhuÇn)è‡º(tÃ¡i)è©¦é©—(yÃ n)ç®±</a>
+			 </li>
+<li id="menu-item-8156" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8156">
+			 <a href="http://0371rykj.com/syx/35.html">é«˜ä½æº«è©¦é©—(yÃ n)ç®±</a>
+			 </li>
+<li id="menu-item-8156" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8156">
+			 <a href="http://0371rykj.com/syx/910.html">é…’ç²¾ä½æº«æ²–æ“Šæ§½</a>
+			 </li>
+
+			</ul>
+		</li>
+	 </ul>
+	  <ul id="" class="nycl-nav">
+      
+       <li id="menu-item-8149" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-8149">
+	   <a href="http://0371rykj.com/lhsyx/">è€åŒ–ç®±ç³»åˆ—</a>
+			<ul class="sub-menu"> 
+
+			 <li id="menu-item-8156" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8156">
+			 <a href="http://0371rykj.com/lhsyx/852.html">ä½æº«ç¶œåˆè©¦é©—(yÃ n)ç®±</a>
+			 </li>
+<li id="menu-item-8156" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8156">
+			 <a href="http://0371rykj.com/lhsyx/896.html">æ°´å†·æ°™ç‡ˆè€æ°£å€™è©¦é©—(yÃ n)ç®±</a>
+			 </li>
+<li id="menu-item-8156" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8156">
+			 <a href="http://0371rykj.com/lhsyx/897.html">é¢¨(fÄ“ng)å†·æ°™ç‡ˆè€æ°£å€™è©¦é©—(yÃ n)ç®±</a>
+			 </li>
+<li id="menu-item-8156" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8156">
+			 <a href="http://0371rykj.com/lhsyx/899.html">æ–°èƒ½æºé›»æ± è©¦é©—(yÃ n)ç®±</a>
+			 </li>
+
+			</ul>
+		</li>
+	 </ul>
+	 <ul id="" class="nycl-nav">
+      
+       <li id="menu-item-8149" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-8149">
+	   <a href="http://0371rykj.com/fbdz/">éæ¨™(biÄo)å®šåˆ¶ç³»åˆ—</a>
+			<ul class="sub-menu"> 
+			 <li id="menu-item-8156" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8156">
+			 <a href="http://0371rykj.com/fbdz/867.html">æ­¥å…¥å¼è€åŒ–æˆ¿</a>
+			 </li>
+<li id="menu-item-8156" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8156">
+			 <a href="http://0371rykj.com/fbdz/54.html">IP9Ké˜²æ°´è©¦é©—(yÃ n)å®¤</a>
+			 </li>
+<li id="menu-item-8156" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8156">
+			 <a href="http://0371rykj.com/fbdz/16.html">æ¿•åº¦è©¦é©—(yÃ n)æ¸¬(cÃ¨)è©¦ç®±</a>
+			 </li>
+<li id="menu-item-8156" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8156">
+			 <a href="http://0371rykj.com/fbdz/51.html">æ­¥å…¥å¼é«˜ä½æº«è©¦é©—(yÃ n)ç®±</a>
+			 </li>
+
+			</ul>
+		</li>
+	 </ul>
+	 <ul id="" class="nycl-nav">
+      
+       <li id="menu-item-8149" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-8149">
+	   <a href="http://0371rykj.com/ipfhsb/">ipé˜²è­·(hÃ¹)ç³»åˆ—</a>
+			<ul class="sub-menu"> 
+			 <li id="menu-item-8156" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8156">
+			 <a href="http://0371rykj.com/ipfhsb/900.html">æ“ºç®¡æ·‹é›¨å¯¦(shÃ­)é©—(yÃ n)è£ç½®</a>
+			 </li>
+<li id="menu-item-8156" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8156">
+			 <a href="http://0371rykj.com/ipfhsb/34.html">æ’æº«æ’æ¿•è©¦é©—(yÃ n)ç®±</a>
+			 </li>
+<li id="menu-item-8156" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8156">
+			 <a href="http://0371rykj.com/ipfhsb/809.html">ç®±å¼?jÄ«ng)_æ°´è©¦é©—(yÃ n)ç®±</a>
+			 </li>
+<li id="menu-item-8156" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8156">
+			 <a href="http://0371rykj.com/ipfhsb/869.html">é˜²å¡µè©¦é©—(yÃ n)ç®±</a>
+			 </li>
+
+			</ul>
+		</li>
+	 </ul>
+	 <ul id="" class="nycl-nav">
+      
+       <li id="menu-item-8149" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-8149">
+	  <a href="http://0371rykj.com/zddl/">æŒ¯å‹•(dÃ²ng)è·Œè½ç³»åˆ—</a>
+			<ul class="sub-menu"> 
+			 <li id="menu-item-8156" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8156">
+			 <a href="http://0371rykj.com/zddl/50.html">æŒ¯å‹•(dÃ²ng)è©¦é©—(yÃ n)è‡º(tÃ¡i)</a>
+			 </li>
+<li id="menu-item-8156" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8156">
+			 <a href="http://0371rykj.com/zddl/49.html">è·Œè½è©¦é©—(yÃ n)æ©Ÿ(jÄ«)</a>
+			 </li>
+
+			</ul>
+		</li>
+	 </ul>
+     </div> 
+     <div   id="mwck2au"   class="nycldlx">
+      <span>å’¨è©¢(xÃºn)ç†±ç·š(xiÃ n)<b>4000 662 888</b></span>
+     </div>
+    </div>
+   </div>
+   <div   id="gck2iss"   class="clear"></div>
+  </div>
+   <div   id="2oimggs"   class="inf" style="background:#FBFBFB;margin-top:40px;"> 
+   <div   id="0uygwko"   class="content"> 
+    <div   id="kwagqc0"   class="inf_l fl"> 
+     <div   id="q2cqwic"   class="inf_t"> 
+      <a href="/guanyulinpin/" title="æŸ¥çœ‹æ›´å¤š"  class="fr">æŸ¥çœ‹æ›´å¤š</a>
+      <h3> <a href="/guanyulinpin/" title="èµ°é€²(jÃ¬n)æ—é »" >é—œ(guÄn)äº<b>æ—é »</b></a></h3> 
+     </div> 
+     <dl> 
+      <dt>
+       <a  href="/guanyulinpin/" title="èµ°é€²(jÃ¬n)æ—é »"><img src="/style/images/about_lb5.jpg" alt="èµ°é€²(jÃ¬n)æ—é »" class="thumbnail" /></a>
+      </dt> 
+      <dd>
+       <h2><a  href="/guanyulinpin/" title="">ä¸Šæµ·æ—é »å„€å™¨è‚¡ä»½æœ‰é™å…¬å¸</a></h2> 
+       <p>ä¸Šæµ·æ—é »å„€å™¨è‚¡ä»½æœ‰é™å…¬å¸æ˜¯å¯é æ€§ç’°(huÃ¡n)å¢ƒè©¦é©—(yÃ n)è¨­(shÃ¨)å‚™è¡Œæ¥­(yÃ¨)ä¸­çš„è‚¡ä»½åˆ¶é«˜æ–°æŠ€è¡“(shÃ¹)ä¼æ¥­(yÃ¨)ï¼Œå°ˆ(zhuÄn)æ¥­(yÃ¨)çš„è©¦é©—(yÃ n)è¨­(shÃ¨)å‚™åˆ¶é€ å•†å’Œè©¦é©—(yÃ n)è§£æ±ºæ–¹æ¡ˆç¶œåˆæœå‹™(wÃ¹)å•†ï¼Œæ“æœ‰æ¨™(biÄo)æº–(zhÇ”n)åŒ–çš„è©¦é©—(yÃ n)è¨­(shÃ¨)å‚™ç”Ÿç”¢(chÇn)åŸºåœ°å’Œè¨­(shÃ¨)å‚™å±•ç¤ºå»³ã€‚
+		æ†‘å€Ÿå‰µ(chuÃ ng)æ–°çš„ç”¢(chÇn)å“ã€é«˜æ•ˆçš„ä¾›æ‡‰(yÄ«ng)éˆå’Œå¼·(qiÃ¡ng)å¤§çš„æˆ°(zhÃ n)ç•¥åŸ·(zhÃ­)è¡ŒåŠ›ï¼Œæ—é »å„€å™¨éŠ³æ„ç‚ºå»£å¤§ç”¨æˆ¶(hÃ¹)æ‰“é€ å„ª(yÅu)è³ª(zhÃ¬)ã€å®‰å…¨ã€ç’°(huÃ¡n)ä¿çš„ç”¢(chÇn)å“åŠå°ˆ(zhuÄn)æ¥­(yÃ¨)é«˜æ•ˆçš„æœå‹™(wÃ¹)ã€‚ 
+		<a  href="/guanyulinpin/" title="æŸ¥çœ‹è©³æƒ…"> [æŸ¥çœ‹è©³æƒ…]</a>
+		</p> 
+      </dd> 
+     </dl>
+    </div> 
+    <div   id="gsm0wmy"   class="inf_r fr">
+     <div   id="0uy0e0m"   class="inf_t"> 
+      <a href="/xinwenzhongxin/" title="æŸ¥çœ‹æ›´å¤šä¼æ¥­(yÃ¨)æ–°è"  class="fr">æŸ¥çœ‹æ›´å¤š</a> 
+      <h3><a  title="ä¼æ¥­(yÃ¨)æ–°è" href="/xinwenzhongxin/">æ–°è<b>å‹•(dÃ²ng)æ…‹(tÃ i)</b></a></h3>
+     </div> 
+     <div   id="m0gme0o"   class="inf2_c"> 
+		<dl>
+       <dt>
+        <a href="http://0371rykj.com/why/985.html"  title="æ‰‹æŒé–“çš„è‡ªç„¶éŸ»å¾‹ï¼šæ’æº«æ’æ¿•ç®±çš„"><img src="http://0371rykj.com/uploads/allimg/250310/1_03101430559522.jpg" alt="æ‰‹æŒé–“çš„è‡ªç„¶éŸ»å¾‹ï¼šæ’æº«æ’æ¿•ç®±çš„" class="thumbnail" /></a>
+       </dt>
+       <dd>
+        <h2><a href="http://0371rykj.com/why/985.html"  title="æ‰‹æŒé–“çš„è‡ªç„¶éŸ»å¾‹ï¼šæ’æº«æ’æ¿•ç®±çš„">æ‰‹æŒé–“çš„è‡ªç„¶éŸ»å¾‹ï¼šæ’æº«æ’æ¿•ç®±çš„</a></h2>
+        <p>
+			åœ¨ç§‘æŠ€çš„æµªæ½®ä¸­ï¼Œæœ‰ä¸€ç¨®è¨­(shÃ¨)å‚™éœéœåœ°ä½‡ç«‹åœ¨å¯¦(shÃ­)é©—(yÃ n)å®¤æˆ–å„²(chÇ”)å­˜ç©ºé–“é‡Œï¼Œå®ƒä¸è¨€ä¸èª(yÇ”)ï¼Œ...
+			<a href="http://0371rykj.com/why/985.html"  title="æŸ¥çœ‹è©³æƒ…">[æŸ¥çœ‹è©³æƒ…]</a>
+		</p>
+       </dd>
+      </dl>
+
+      <ul>
+		<li><h2><a  href="http://0371rykj.com/why/985.html" title="æ‰‹æŒé–“çš„è‡ªç„¶éŸ»å¾‹ï¼šæ’æº«æ’æ¿•ç®±çš„ç§‘æŠ€é­…åŠ›">æ‰‹æŒé–“çš„è‡ªç„¶éŸ»å¾‹ï¼šæ’æº«æ’æ¿•ç®±çš„ç§‘æŠ€é­…åŠ›</a></h2></li>
+<li><h2><a  href="http://0371rykj.com/lpnews/984.html" title="æ’æº«æ’æ¿•è©¦é©—(yÃ n)ç®±ï¼šAIç®—æ³•å„ª(yÅu)åŒ–å¯¦(shÃ­)ç¾(xiÃ n)å¤šæ¨¡æ…‹(tÃ i)æ•¸(shÃ¹)æ“š(jÃ¹)ç›£(jiÄn)æ¸¬(cÃ¨)">æ’æº«æ’æ¿•è©¦é©—(yÃ n)ç®±ï¼šAIç®—æ³•å„ª(yÅu)åŒ–å¯¦(shÃ­)ç¾(xiÃ n)å¤šæ¨¡æ…‹(tÃ i)æ•¸(shÃ¹)æ“š(jÃ¹)ç›£(jiÄn)æ¸¬(cÃ¨)</a></h2></li>
+<li><h2><a  href="http://0371rykj.com/hynews/983.html" title="æ‰‹é›»ç­’é˜²è­·(hÃ¹)ç­‰ç´š(jÃ­)é©—(yÃ n)è­‰ï¼šé¹½éœ§è©¦é©—(yÃ n)ç®±çš„æ¨™(biÄo)æº–(zhÇ”n)æ¸¬(cÃ¨)è©¦æ–¹">æ‰‹é›»ç­’é˜²è­·(hÃ¹)ç­‰ç´š(jÃ­)é©—(yÃ n)è­‰ï¼šé¹½éœ§è©¦é©—(yÃ n)ç®±çš„æ¨™(biÄo)æº–(zhÇ”n)æ¸¬(cÃ¨)è©¦æ–¹</a></h2></li>
+<li><h2><a  href="http://0371rykj.com/why/982.html" title="æ¢ç´¢æ’æº«æ’æ¿•è©¦é©—(yÃ n)ç®±åœ¨å·¥æ¥­(yÃ¨)é ˜(lÇng)åŸŸçš„ä½¿ç”¨èˆ‡ç™¼(fÄ)å±•">æ¢ç´¢æ’æº«æ’æ¿•è©¦é©—(yÃ n)ç®±åœ¨å·¥æ¥­(yÃ¨)é ˜(lÇng)åŸŸçš„ä½¿ç”¨èˆ‡ç™¼(fÄ)å±•</a></h2></li>
+<li><h2><a  href="http://0371rykj.com/lpnews/981.html" title="æ’æº«æ’æ¿•è©¦é©—(yÃ n)ç®±ä¸‹é›»å­ç”¢(chÇn)å“å¯é æ€§è©¦é©—(yÃ n)é(guÃ²)ç¨‹ç ”ç©¶">æ’æº«æ’æ¿•è©¦é©—(yÃ n)ç®±ä¸‹é›»å­ç”¢(chÇn)å“å¯é æ€§è©¦é©—(yÃ n)é(guÃ²)ç¨‹ç ”ç©¶</a></h2></li>
+<li><h2><a  href="http://0371rykj.com/hynews/980.html" title="æ’æº«æ’æ¿•è©¦é©—(yÃ n)ç®±ï¼šæ¢ç´¢æœªçŸ¥é ˜(lÇng)åŸŸçš„å‹‡æ•¢æ¢éšª(xiÇn)å®¶">æ’æº«æ’æ¿•è©¦é©—(yÃ n)ç®±ï¼šæ¢ç´¢æœªçŸ¥é ˜(lÇng)åŸŸçš„å‹‡æ•¢æ¢éšª(xiÇn)å®¶</a></h2></li>
+<li><h2><a  href="http://0371rykj.com/why/979.html" title="æº«åº¦èˆ‡æ¿•åº¦é›™é‡æ§åˆ¶-æ’æº«æ’æ¿•è©¦é©—(yÃ n)ç®±å¯¦(shÃ­)é©—(yÃ n)ç´€(jÃ¬)å¯¦(shÃ­)">æº«åº¦èˆ‡æ¿•åº¦é›™é‡æ§åˆ¶-æ’æº«æ’æ¿•è©¦é©—(yÃ n)ç®±å¯¦(shÃ­)é©—(yÃ n)ç´€(jÃ¬)å¯¦(shÃ­)</a></h2></li>
+<li><h2><a  href="http://0371rykj.com/lpnews/978.html" title="å¤šåŠŸèƒ½èåˆå‰µ(chuÃ ng)æ–°-æ’æº«æ’æ¿•è©¦é©—(yÃ n)ç®±çš„è½‰(zhuÇn)å‹ä¹‹è·¯">å¤šåŠŸèƒ½èåˆå‰µ(chuÃ ng)æ–°-æ’æº«æ’æ¿•è©¦é©—(yÃ n)ç®±çš„è½‰(zhuÇn)å‹ä¹‹è·¯</a></h2></li>
+<li><h2><a  href="http://0371rykj.com/hynews/977.html" title="å·¨åŒ ä¹‹ä½œ-æ’æº«æ’æ¿•è©¦é©—(yÃ n)ç®±æ§‹(gÃ²u)ç­‘ç²¾æº–(zhÇ”n)æ¸¬(cÃ¨)è©¦">å·¨åŒ ä¹‹ä½œ-æ’æº«æ’æ¿•è©¦é©—(yÃ n)ç®±æ§‹(gÃ²u)ç­‘ç²¾æº–(zhÇ”n)æ¸¬(cÃ¨)è©¦</a></h2></li>
+<li><h2><a  href="http://0371rykj.com/why/976.html" title="ç©©(wÄ›n)å®šå¯é -æ’æº«æ’æ¿•è©¦é©—(yÃ n)ç®±è€å€™æ€§æ¸¬(cÃ¨)è©¦å¿…å‚™">ç©©(wÄ›n)å®šå¯é -æ’æº«æ’æ¿•è©¦é©—(yÃ n)ç®±è€å€™æ€§æ¸¬(cÃ¨)è©¦å¿…å‚™</a></h2></li>
+<li><h2><a  href="http://0371rykj.com/hynews/975.html" title="å¾ç§‘ç ”åˆ°ç”Ÿç”¢(chÇn)ï¼šæ’æº«æ’æ¿•è©¦é©—(yÃ n)ç®±æ€§èƒ½å…¨é¢å°(duÃ¬)æ±º">å¾ç§‘ç ”åˆ°ç”Ÿç”¢(chÇn)ï¼šæ’æº«æ’æ¿•è©¦é©—(yÃ n)ç®±æ€§èƒ½å…¨é¢å°(duÃ¬)æ±º</a></h2></li>
+<li><h2><a  href="http://0371rykj.com/lpnews/974.html" title="æ’æº«æ’æ¿•è©¦é©—(yÃ n)ç®±ï¼šç²¾æº–(zhÇ”n)æ§åˆ¶ï¼Œæ¨¡æ“¬ç’°(huÃ¡n)å¢ƒæ¸¬(cÃ¨)è©¦çš„è¨­(shÃ¨)">æ’æº«æ’æ¿•è©¦é©—(yÃ n)ç®±ï¼šç²¾æº–(zhÇ”n)æ§åˆ¶ï¼Œæ¨¡æ“¬ç’°(huÃ¡n)å¢ƒæ¸¬(cÃ¨)è©¦çš„è¨­(shÃ¨)</a></h2></li>
+<li><h2><a  href="http://0371rykj.com/why/973.html" title="æ’æº«æ’æ¿•è©¦é©—(yÃ n)ç®±åœ¨å»ºç­‘ææ–™è†¨è„¹ç‡èˆ‡æ”¶ç¸®ç‡è©•(pÃ­ng)ä¼°">æ’æº«æ’æ¿•è©¦é©—(yÃ n)ç®±åœ¨å»ºç­‘ææ–™è†¨è„¹ç‡èˆ‡æ”¶ç¸®ç‡è©•(pÃ­ng)ä¼°</a></h2></li>
+<li><h2><a  href="http://0371rykj.com/hynews/972.html" title="æ’æº«æ’æ¿•è©¦é©—(yÃ n)ç®±ä¸­é‡‘å±¬ææ–™çš„è…è•è¡Œç‚ºçš„é˜²è…æª">æ’æº«æ’æ¿•è©¦é©—(yÃ n)ç®±ä¸­é‡‘å±¬ææ–™çš„è…è•è¡Œç‚ºçš„é˜²è…æª</a></h2></li>
+
+      </ul>
+     </div> 
+    </div> 
+   </div>
+  </div> 
+
+   <div   id="mwiagu2"   class="f_bg"> 
+   <div   id="uey28yw"   class="footer"> 
+    <div   id="eoyu0im"   class="f_con"> 
+     <h2> <a href="/" title="æ·‹é›¨è©¦é©—(yÃ n)ç®±" rel="nofollow"> <img src="/style/images/logo.png" width="220px" alt="æ·‹é›¨è©¦é©—(yÃ n)ç®±" title="æ·‹é›¨è©¦é©—(yÃ n)ç®±" /></a></h2> 
+     <p> <em><b>ä¸Šæµ·æ—é »å„€å™¨è‚¡ä»½æœ‰é™å…¬å¸ç‰ˆæ¬Š(quÃ¡n)æ‰€æœ‰</b> <span>[<a  title="æ»¬ICPå‚™08003214è™Ÿ(hÃ o) " rel="nofollow">å‚™æ¡ˆè™Ÿ(hÃ o)ï¼šæ»¬ICPå‚™08003214è™Ÿ(hÃ o) </a>] </span></em> <a href="/sitemap.xml" target="_blank" rel="nofollow">ç¶²(wÇng)ç«™åœ°åœ–</a> <i><b>æœå‹™(wÃ¹)ç†±ç·š(xiÃ n)ï¼š</b>4000 662 888 <span><b>æ‰‹æ©Ÿ(jÄ«)ï¼š</b>13818467052</span></i><i><b>åœ°å€ï¼š</b>ä¸Šæµ·å¸‚å¥‰è³¢å€(qÅ«)è‡¨æµ·å·¥æ¥­(yÃ¨)å€(qÅ«)å±•å·¥è·¯888è™Ÿ(hÃ o)</i><i></i> </p> 
+     <h4 id="ewm">
+	<img src="/style/images/20150604142507_96557.png" />
+	
+    <br>????????????å¾®ä¿¡å…¬çœ¾è™Ÿ(hÃ o)
+	 </h4> 
+    </div> 
+   </div> 
+  </div> 
+<script type="text/javascript" src="/swt/swt.js"></script>
+ <script type="text/javascript" src="http://www.linpin.com/swt/qtdibu.js"></script>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?5817726786f9bf529e063ebebe3dfabb";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+	
+   <script src="/style/js/setup.js"></script>
+<script src="/style/js/menu.js" type="text/javascript"></script> 
+
+ 
+<footer>
+<div class="friendship-link">
+<p>æ„Ÿè°¢æ‚¨è®¿é—®æˆ‘ä»¬çš„ç½‘ç«™ï¼Œæ‚¨å¯èƒ½è¿˜å¯¹ä»¥ä¸‹èµ„æºæ„Ÿå…´è¶£ï¼š</p>
+<a href="http://0371rykj.com/" title="&#x4E45;&#x4E45;&#x4E45;&#x4E45;&#x5973;&#x4EBA;&#x7CBE;&#x54C1;&#x6BDB;&#x7247;">&#x4E45;&#x4E45;&#x4E45;&#x4E45;&#x5973;&#x4EBA;&#x7CBE;&#x54C1;&#x6BDB;&#x7247;</a>
+
+<div class="friend-links">
+
+
+</div>
+</div>
+
+</footer>
+
+<script>
+(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https') {
+        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+    }
+    else {
+        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+    }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
+</body><div id="mescs" class="pl_css_ganrao" style="display: none;"><s id="mescs"></s><code id="mescs"></code><pre id="mescs"><samp id="mescs"><tfoot id="mescs"></tfoot></samp></pre><menu id="mescs"><bdo id="mescs"><option id="mescs"></option></bdo></menu><del id="mescs"></del><dd id="mescs"></dd><center id="mescs"></center><del id="mescs"></del><xmp id="mescs"></xmp><wbr id="mescs"><cite id="mescs"><menu id="mescs"></menu></cite></wbr><noscript id="mescs"></noscript><tr id="mescs"></tr><noscript id="mescs"></noscript><del id="mescs"></del><small id="mescs"></small><xmp id="mescs"></xmp><optgroup id="mescs"></optgroup><dd id="mescs"></dd><samp id="mescs"></samp><button id="mescs"></button><noframes id="mescs"><ul id="mescs"><center id="mescs"></center></ul></noframes><tbody id="mescs"></tbody><ul id="mescs"></ul><tbody id="mescs"><button id="mescs"><ul id="mescs"></ul></button></tbody><wbr id="mescs"><cite id="mescs"><menu id="mescs"></menu></cite></wbr><dfn id="mescs"></dfn><dd id="mescs"></dd><strong id="mescs"><nav id="mescs"><kbd id="mescs"></kbd></nav></strong><strike id="mescs"></strike><wbr id="mescs"><cite id="mescs"><menu id="mescs"></menu></cite></wbr><wbr id="mescs"><th id="mescs"><nav id="mescs"></nav></th></wbr><td id="mescs"></td><em id="mescs"><del id="mescs"><sup id="mescs"></sup></del></em><nav id="mescs"></nav><tbody id="mescs"></tbody><strike id="mescs"><menu id="mescs"><bdo id="mescs"></bdo></menu></strike><menu id="mescs"><li id="mescs"><option id="mescs"></option></li></menu><tbody id="mescs"></tbody><fieldset id="mescs"><optgroup id="mescs"><tr id="mescs"></tr></optgroup></fieldset><del id="mescs"></del><fieldset id="mescs"></fieldset><option id="mescs"></option><abbr id="mescs"></abbr><option id="mescs"></option><s id="mescs"><bdo id="mescs"><em id="mescs"></em></bdo></s><table id="mescs"></table><li id="mescs"></li><small id="mescs"></small><kbd id="mescs"></kbd><fieldset id="mescs"><optgroup id="mescs"><abbr id="mescs"></abbr></optgroup></fieldset><table id="mescs"></table><li id="mescs"><center id="mescs"><xmp id="mescs"></xmp></center></li><object id="mescs"><tbody id="mescs"><button id="mescs"></button></tbody></object><li id="mescs"></li><cite id="mescs"></cite><acronym id="mescs"></acronym><samp id="mescs"></samp><tr id="mescs"></tr><sup id="mescs"></sup><center id="mescs"></center><object id="mescs"></object><small id="mescs"></small><ul id="mescs"></ul><s id="mescs"></s><center id="mescs"></center><object id="mescs"><tbody id="mescs"><pre id="mescs"></pre></tbody></object><pre id="mescs"><blockquote id="mescs"><tfoot id="mescs"></tfoot></blockquote></pre><xmp id="mescs"></xmp><tbody id="mescs"></tbody><rt id="mescs"></rt><acronym id="mescs"></acronym><blockquote id="mescs"></blockquote><table id="mescs"><tr id="mescs"><sup id="mescs"></sup></tr></table><dfn id="mescs"></dfn><object id="mescs"></object><blockquote id="mescs"></blockquote><dd id="mescs"></dd><th id="mescs"></th><dfn id="mescs"></dfn><fieldset id="mescs"></fieldset><kbd id="mescs"></kbd><td id="mescs"><fieldset id="mescs"><input id="mescs"></input></fieldset></td><del id="mescs"></del><acronym id="mescs"></acronym><tfoot id="mescs"><object id="mescs"><strong id="mescs"></strong></object></tfoot><wbr id="mescs"><cite id="mescs"><menu id="mescs"></menu></cite></wbr><xmp id="mescs"></xmp><delect id="mescs"><tr id="mescs"><rt id="mescs"></rt></tr></delect><optgroup id="mescs"></optgroup><dfn id="mescs"></dfn><tbody id="mescs"></tbody><pre id="mescs"></pre><center id="mescs"></center><td id="mescs"><fieldset id="mescs"><optgroup id="mescs"></optgroup></fieldset></td><acronym id="mescs"></acronym><dl id="mescs"></dl><tbody id="mescs"></tbody><center id="mescs"><dl id="mescs"><object id="mescs"></object></dl></center><table id="mescs"><delect id="mescs"><dfn id="mescs"></dfn></delect></table><pre id="mescs"><blockquote id="mescs"><tfoot id="mescs"></tfoot></blockquote></pre><tr id="mescs"></tr><tr id="mescs"></tr><pre id="mescs"></pre><tr id="mescs"><s id="mescs"><noscript id="mescs"></noscript></s></tr><dfn id="mescs"></dfn><acronym id="mescs"></acronym><table id="mescs"></table><ul id="mescs"></ul><optgroup id="mescs"></optgroup><xmp id="mescs"></xmp><center id="mescs"></center><dfn id="mescs"></dfn><td id="mescs"><fieldset id="mescs"><input id="mescs"></input></fieldset></td><ul id="mescs"></ul><xmp id="mescs"></xmp><dl id="mescs"></dl><ul id="mescs"><pre id="mescs"><wbr id="mescs"></wbr></pre></ul><pre id="mescs"></pre><object id="mescs"></object><input id="mescs"><tbody id="mescs"><noframes id="mescs"></noframes></tbody></input><table id="mescs"></table><source id="mescs"></source><abbr id="mescs"></abbr><dl id="mescs"></dl><tr id="mescs"></tr><s id="mescs"><code id="mescs"><em id="mescs"></em></code></s><rt id="mescs"></rt><code id="mescs"><table id="mescs"><abbr id="mescs"></abbr></table></code><code id="mescs"></code><source id="mescs"></source><button id="mescs"></button><noscript id="mescs"></noscript><pre id="mescs"></pre><tbody id="mescs"><button id="mescs"><samp id="mescs"></samp></button></tbody><button id="mescs"></button><bdo id="mescs"></bdo><noframes id="mescs"></noframes><dfn id="mescs"></dfn><bdo id="mescs"></bdo><button id="mescs"></button><bdo id="mescs"></bdo><em id="mescs"><del id="mescs"><sup id="mescs"></sup></del></em><nav id="mescs"></nav><xmp id="mescs"></xmp><dl id="mescs"></dl><menu id="mescs"><bdo id="mescs"><option id="mescs"></option></bdo></menu><center id="mescs"><dd id="mescs"><strike id="mescs"></strike></dd></center><object id="mescs"></object><dd id="mescs"><strike id="mescs"><menu id="mescs"></menu></strike></dd><rt id="mescs"></rt></div>
+</html>
+
+WARC/1.0
+WARC-Type: metadata
+WARC-Date: 2025-04-17T14:56:33Z
+WARC-Record-ID: <urn:uuid:55e98b13-443d-4faa-9a6a-37991008d5cd>
+Content-Length: 297
+Content-Type: application/warc-fields
+WARC-Warcinfo-ID: <urn:uuid:7cd96d88-0017-4446-8d17-4518dc8c22ec>
+WARC-Concurrent-To: <urn:uuid:c2d1a8c1-6724-4f42-af88-1f9cbf5e6b3d>
+WARC-Target-URI: http://0371rykj.com/ipfhsb/34.html
+
+fetchTimeMs: 932
+charset-detected: UTF-8
+languages-cld2: {"reliable":false,"text-bytes":5324,"languages":[{"code":"zh-Hant","code-iso-639-3":"zho","text-covered":0.53,"score":1841.0,"name":"ChineseT"},{"code":"zh","code-iso-639-3":"zho","text-covered":0.06,"score":1789.0,"name":"Chinese"}]}
+
+
+
+WARC/1.0
+WARC-Type: request
+WARC-Date: 2025-04-17T14:32:36Z
+WARC-Record-ID: <urn:uuid:fd57d149-ce5d-49a1-88f7-64770a8caec4>
+Content-Length: 363
+Content-Type: application/http; msgtype=request
+WARC-Warcinfo-ID: <urn:uuid:7cd96d88-0017-4446-8d17-4518dc8c22ec>
+WARC-IP-Address: 172.104.106.210
+WARC-Target-URI: http://10www.chinatikfans.com/home.php?mod=space&uid=4693&do=blog&classid=104&view=me
+WARC-Protocol: http/1.1
+
+GET /home.php?mod=space&uid=4693&do=blog&classid=104&view=me HTTP/1.1
+User-Agent: CCBot/2.0 (https://commoncrawl.org/faq/)
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+If-Modified-Since: Mon, 09 Dec 2024 00:10:35 GMT
+Accept-Encoding: br,gzip
+Host: 10www.chinatikfans.com
+Connection: Keep-Alive
+
+
+
+WARC/1.0
+WARC-Type: response
+WARC-Date: 2025-04-17T14:32:36Z
+WARC-Record-ID: <urn:uuid:8673e068-bed0-45ac-a821-b6cd217f8a1d>
+Content-Length: 22178
+Content-Type: application/http; msgtype=response
+WARC-Warcinfo-ID: <urn:uuid:7cd96d88-0017-4446-8d17-4518dc8c22ec>
+WARC-Concurrent-To: <urn:uuid:fd57d149-ce5d-49a1-88f7-64770a8caec4>
+WARC-IP-Address: 172.104.106.210
+WARC-Target-URI: http://10www.chinatikfans.com/home.php?mod=space&uid=4693&do=blog&classid=104&view=me
+WARC-Protocol: http/1.1
+WARC-Payload-Digest: sha1:AAW4XEJCBYKSMQUOSDOGGHCDFRRVTLHZ
+WARC-Block-Digest: sha1:QB7RVXNDMUU2VYJNL3LHFG7W3SXBPVPY
+WARC-Identified-Payload-Type: application/xhtml+xml
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 17 Apr 2025 14:32:35 GMT
+Content-Type: text/html; charset=gbk
+X-Crawler-Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/5.5.38
+Set-Cookie: 0T5Y_2132_saltkey=qfzWWv3s; expires=Sat, 17-May-2025 14:32:35 GMT; Max-Age=2592000; path=/; httponly
+Set-Cookie: 0T5Y_2132_lastvisit=1744896755; expires=Sat, 17-May-2025 14:32:35 GMT; Max-Age=2592000; path=/
+Set-Cookie: 0T5Y_2132_lastact=1744900355%09home.php%09space; expires=Fri, 18-Apr-2025 14:32:35 GMT; Max-Age=86400; path=/
+Set-Cookie: 0T5Y_2132_home_diymode=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/
+X-Crawler-Content-Encoding: gzip
+Vary: Accept-Encoding
+Content-Length: 21454
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<title>lily_zlµÄÈÕÖ¾ -  &amp;#1769;½ÜÎ÷´ï°îÖĞ¹úÓ°ÃÔ»á&amp;#1769;  -  Powered by Discuz!</title>
+
+<meta name="keywords" content="lily_zlµÄÈÕÖ¾" />
+<meta name="description" content="lily_zlµÄÈÕÖ¾ ,&amp;#1769;½ÜÎ÷´ï°îÖĞ¹úÓ°ÃÔ»á&amp;#1769; " />
+<meta name="generator" content="Discuz! X3.4" />
+<meta name="author" content="Discuz! Team and Comsenz UI Team" />
+<meta name="copyright" content="2001-2020 Tencent Cloud." />
+<meta name="MSSmartTagsPreventParsing" content="True" />
+<meta http-equiv="MSThemeCompatible" content="Yes" />
+<base href="http://10www.chinatikfans.com/" /><link rel="stylesheet" type="text/css" href="data/cache/style_1_common.css?d4L" /><link rel="stylesheet" type="text/css" href="data/cache/style_1_home_space.css?d4L" /><script type="text/javascript">var STYLEID = '1', STATICURL = 'static/', IMGDIR = 'static/image/common', VERHASH = 'd4L', charset = 'gbk', discuz_uid = '0', cookiepre = '0T5Y_2132_', cookiedomain = '', cookiepath = '/', showusercard = '1', attackevasive = '0', disallowfloat = '', creditnotice = '1|ÍşÍû|µã,2|½ğÇ®|RMB,3|¹±Ï×Öµ|µã,4|ºÃÆÀ¶È|µã,5|Íõ¹ú»ı·Ö|µÎ,6|Íõ¹ú°®ĞÄ|¿Å,7|“Ë®Öµ|Ã×', defaultstyle = '', REPORTURL = 'aHR0cDovLzEwd3d3LmNoaW5hdGlrZmFucy5jb20vaG9tZS5waHA/bW9kPXNwYWNlJnVpZD00NjkzJmRvPWJsb2cmY2xhc3NpZD0xMDQmdmlldz1tZQ==', SITEURL = 'http://10www.chinatikfans.com/', JSPATH = 'data/cache/', CSSPATH = 'data/cache/style_', DYNAMICURL = '';</script>
+<script src="data/cache/common.js?d4L" type="text/javascript"></script>
+<meta name="application-name" content="&amp;#1769;½ÜÎ÷´ï°îÖĞ¹úÓ°ÃÔ»á&amp;#1769; " />
+<meta name="msapplication-tooltip" content="&amp;#1769;½ÜÎ÷´ï°îÖĞ¹úÓ°ÃÔ»á&amp;#1769; " />
+<meta name="msapplication-task" content="name=¹ã³¡;action-uri=http://10www.chinatikfans.com/forum.php;icon-uri=http://10www.chinatikfans.com/static/image/common/bbs.ico" />
+<meta name="msapplication-task" content="name=¼ÒÔ°;action-uri=http://10www.chinatikfans.com/home.php;icon-uri=http://10www.chinatikfans.com/static/image/common/home.ico" /><link rel="stylesheet" id="css_widthauto" type="text/css" href='data/cache/style_1_widthauto.css?d4L' />
+<script type="text/javascript">HTMLNODE.className += ' widthauto'</script>
+<script src="data/cache/home.js?d4L" type="text/javascript"></script>
+</head>
+
+<body id="nv_home" class="pg_space" onkeydown="if(event.keyCode==27) return false;">
+<div id="append_parent"></div><div id="ajaxwaitid"></div>
+<div id="toptb" class="cl">
+<div class="wp">
+<div class="z"><a href="javascript:;"  onclick="setHomepage('http://www.chinatikfans.com/');">ÉèÎªÊ×Ò³</a><a href="http://www.chinatikfans.com/"  onclick="addFavorite(this.href, '&amp;#1769;½ÜÎ÷´ï°îÖĞ¹úÓ°ÃÔ»á&amp;#1769; ');return false;">ÊÕ²Ø±¾Õ¾</a></div>
+<div class="y">
+<a id="switchblind" href="javascript:;" onclick="toggleBlind(this)" title="¿ªÆô¸¨Öú·ÃÎÊ" class="switchblind">¿ªÆô¸¨Öú·ÃÎÊ</a>
+<a href="javascript:;" id="switchwidth" onclick="widthauto(this)" title="ÇĞ»»µ½Õ­°æ" class="switchwidth">ÇĞ»»µ½Õ­°æ</a>
+</div>
+</div>
+</div>
+
+<div class="wp a_h" style="line-height:550px;height:550px"><a href="https://weibo.com/2277216373/profile?topnav=1&wvr=6&is_all=1#_rnd1551703268571" target="_blank"><img src="http://www.chinatikfans.com/data/attachment/common/cf/105412nydm1c4gmgmvdg44.png" height="550" width="1200" alt="½ÜÎ÷´ï°îÖĞ¹úÓ°ÃÔ»á" border="0"></a></div><div id="hd">
+<div class="wp">
+<div class="hdc cl"><h2><a href="./" title="&amp;#1769;½ÜÎ÷´ï°îÖĞ¹úÓ°ÃÔ»á&amp;#1769; "><img src="static/image/common/logo.png" alt="&#1769;½ÜÎ÷´ï°îÖĞ¹úÓ°ÃÔ»á&#1769; " border="0" /></a></h2><script src="data/cache/logging.js?d4L" type="text/javascript"></script>
+<form method="post" autocomplete="off" id="lsform" action="member.php?mod=logging&amp;action=login&amp;loginsubmit=yes&amp;infloat=yes&amp;lssubmit=yes" onsubmit="pwmd5('ls_password');return lsSubmit();">
+<div class="fastlg cl">
+<span id="return_ls" style="display:none"></span>
+<div class="y pns">
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td><label for="ls_username">ÕÊºÅ</label></td>
+<td><input type="text" name="username" id="ls_username" class="px vm xg1"  value="ÓÃ»§Ãû/Email" onfocus="if(this.value == 'ÓÃ»§Ãû/Email'){this.value = '';this.className = 'px vm';}" onblur="if(this.value == ''){this.value = 'ÓÃ»§Ãû/Email';this.className = 'px vm xg1';}" tabindex="901" /></td>
+<td class="fastlg_l"><label for="ls_cookietime"><input type="checkbox" name="cookietime" id="ls_cookietime" class="pc" value="2592000" tabindex="903" />×Ô¶¯µÇÂ¼</label></td>
+<td>&nbsp;<a href="javascript:;" onclick="showWindow('login', 'member.php?mod=logging&action=login&viewlostpw=1')">ÕÒ»ØÃÜÂë</a></td>
+</tr>
+<tr>
+<td><label for="ls_password">ÃÜÂë</label></td>
+<td><input type="password" name="password" id="ls_password" class="px vm" autocomplete="off" tabindex="902" /></td>
+<td class="fastlg_l"><button type="submit" class="pn vm" tabindex="904" style="width: 75px;"><em>µÇÂ¼</em></button></td>
+<td>&nbsp;<a href="member.php?mod=register" class="xi2 xw1">¼ÓÈëÎÒÃÇ</a></td>
+</tr>
+</table>
+<input type="hidden" name="quickforward" value="yes" />
+<input type="hidden" name="handlekey" value="ls" />
+</div>
+
+<div class="fastlg_fm y" style="margin-right: 10px; padding-right: 10px">
+<p><a href="http://10www.chinatikfans.com/connect.php?mod=login&op=init&referer=home.php%3Fmod%3Dspace%26uid%3D4693%26do%3Dblog%26classid%3D104%26view%3Dme&statfrom=login_simple"><img src="static/image/common/qq_login.gif" class="vm" alt="QQµÇÂ¼" /></a></p>
+<p class="hm xg1" style="padding-top: 2px;">Ö»ĞèÒ»²½£¬¿ìËÙ¿ªÊ¼</p>
+</div>
+</div>
+</form>
+
+<script src="data/cache/md5.js?d4L" type="text/javascript" reload="1"></script>
+</div>
+
+<div id="nv">
+<a href="javascript:;" id="qmenu" onmouseover="delayShow(this, function () {showMenu({'ctrlid':'qmenu','pos':'34!','ctrlclass':'a','duration':2});showForummenu(0);})">¿ì½İµ¼º½</a>
+<ul><li id="mn_forum" ><a href="forum.php" hidefocus="true" title="BBS"  >¹ã³¡<span>BBS</span></a></li><li id="mn_home" ><a href="home.php" hidefocus="true" title="Space"  >¼ÒÔ°<span>Space</span></a></li><li id="mn_N462e" ><a href="plugin.php?id=dsu_paulsign:sign" hidefocus="true"  >Ã¿ÈÕÇ©µ½</a></li><li id="mn_N12a7" ><a href="misc.php?mod=ranklist" hidefocus="true" title="Ranklist"  >ÅÅĞĞ°ñ<span>Ranklist</span></a></li><li id="mn_Ncbdc" ><a href="misc.php?mod=mobile" hidefocus="true"  >ÊÖ»úÂÛÌ³</a></li></ul>
+</div>
+<div id="mu" class="cl">
+</div><div id="scbar" class="cl">
+<form id="scbar_form" method="post" autocomplete="off" onsubmit="searchFocus($('scbar_txt'))" action="search.php?searchsubmit=yes" target="_blank">
+<input type="hidden" name="mod" id="scbar_mod" value="search" />
+<input type="hidden" name="formhash" value="9b4c0243" />
+<input type="hidden" name="srchtype" value="title" />
+<input type="hidden" name="srhfid" value="0" />
+<input type="hidden" name="srhlocality" value="home::space" />
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td class="scbar_icon_td"></td>
+<td class="scbar_txt_td"><input type="text" name="srchtxt" id="scbar_txt" value="ÇëÊäÈëËÑË÷ÄÚÈİ" autocomplete="off" x-webkit-speech speech /></td>
+<td class="scbar_type_td"><a href="javascript:;" id="scbar_type" class="xg1" onclick="showMenu(this.id)" hidefocus="true">ËÑË÷</a></td>
+<td class="scbar_btn_td"><button type="submit" name="searchsubmit" id="scbar_btn" sc="1" class="pn pnc" value="true"><strong class="xi2">ËÑË÷</strong></button></td>
+<td class="scbar_hot_td">
+<div id="scbar_hot">
+</div>
+</td>
+</tr>
+</table>
+</form>
+</div>
+<ul id="scbar_type_menu" class="p_pop" style="display: none;"><li><a href="javascript:;" rel="user">ÓÃ»§</a></li></ul>
+<script type="text/javascript">
+initSearchmenu('scbar', '');
+</script>
+</div>
+</div>
+
+
+<div id="wp" class="wp">
+<div id="pt" class="bm cl">
+<div class="z">
+<a href="./" class="nvhm" title="Ê×Ò³">&amp;#1769;½ÜÎ÷´ï°îÖĞ¹úÓ°ÃÔ»á&amp;#1769; </a> <em>&rsaquo;</em>
+<a href="home.php?mod=space&amp;do=blog">ÈÕÖ¾</a>
+</div>
+</div>
+<style id="diy_style" type="text/css"></style>
+<div class="wp">
+<!--[diy=diy1]--><div id="diy1" class="area"></div><!--[/diy]-->
+</div>
+<div id="ct" class="ct2_a wp cl">
+<div class="appl"><ul>			
+<li><a href="plugin.php?id=luckypost:luckypost" title="ÎÒµÄ·¢Ìû¼ÊÓö"><img src="data/attachment/common/bgpic.gif?vVrdZT" width="16" height="16" />¼ÊÓö</a></li>			
+<li><span><a href="home.php?mod=spacecp&ac=blog">·¢²¼</a></span><a href="home.php?mod=space&do=blog"><img src="static/image/feed/blog.gif" width="16" height="16" />ÈÕÖ¾</a></li>			
+<li><span><a href="home.php?mod=spacecp&ac=upload">ÉÏ´«</a></span><a href="home.php?mod=space&do=album"><img src="static/image/feed/album.gif" width="16" height="16" />Ïà²á</a></li>			
+<li><span><a href="home.php?mod=spacecp&ac=share" onclick="showWindow('share', this.href, 'get', 0);return false;">Ìí¼Ó</a></span><a href="home.php?mod=space&do=share"><img src="static/image/feed/share.gif" width="16" height="16" />·ÖÏí</a></li>			
+<li><a href="home.php?mod=space&do=doing"><img src="static/image/feed/doing.gif" width="16" height="16" />¼ÇÂ¼</a></li>			
+</ul><hr class="da" /><ul></ul>
+</div>
+<div class="mn pbm">
+<!--[diy=diycontenttop]--><div id="diycontenttop" class="area"></div><!--[/diy]-->
+<div class="bm bw0">
+<h1 class="mt"><img alt="blog" src="static/image/feed/blog.gif" class="vm" /> ÈÕÖ¾</h1>
+<ul class="tb cl">
+<li><a href="home.php?mod=space&amp;do=blog&amp;view=we">ºÃÓÑµÄÈÕÖ¾</a></li>
+<li class="a"><a href="home.php?mod=space&amp;do=blog&amp;view=me">ÎÒµÄÈÕÖ¾</a></li>
+<li><a href="home.php?mod=space&amp;do=blog&amp;view=all">Ëæ±ã¿´¿´</a></li>
+<li class="o"><a href="home.php?mod=spacecp&amp;ac=blog">·¢±íĞÂÈÕÖ¾</a></li>
+</ul>
+</div>
+<div class="tbmu cl">
+<a href="home.php?mod=space&amp;uid=4693&amp;do=blog&amp;classid=31&amp;view=me" id="classid31" onmouseover="showMenu(this.id);">discussion on plots</a><span class="pipe">|</span>
+<a href="home.php?mod=space&amp;uid=4693&amp;do=blog&amp;classid=104&amp;view=me" id="classid104" onmouseover="showMenu(this.id);" class="a">my creation</a><span class="pipe">|</span>
+<a href="home.php?mod=space&amp;uid=4693&amp;do=blog&amp;classid=195&amp;view=me" id="classid195" onmouseover="showMenu(this.id);">ÔÓÌ¸</a><span class="pipe">|</span>
+<a href="home.php?mod=space&amp;uid=4693&amp;do=blog&amp;classid=237&amp;view=me" id="classid237" onmouseover="showMenu(this.id);">TikµÄĞÂÏûÏ¢</a><span class="pipe">|</span>
+<a href="home.php?mod=space&amp;uid=4693&amp;do=blog&amp;classid=238&amp;view=me" id="classid238" onmouseover="showMenu(this.id);">Peach</a><span class="pipe">|</span>
+<a href="home.php?mod=space&amp;uid=4693&amp;do=blog&amp;classid=239&amp;view=me" id="classid239" onmouseover="showMenu(this.id);">Wanida</a><span class="pipe">|</span>
+<a href="home.php?mod=space&amp;uid=4693&amp;do=blog&amp;classid=240&amp;view=me" id="classid240" onmouseover="showMenu(this.id);">TikµÄÍ¼Æ¬</a><span class="pipe">|</span>
+</div>
+
+<div class="xld xlda"><dl class="bbda">
+<dd class="m">
+<div class="avt"><a href="space-uid-4693.html" c="1"><img src="http://www.chinatikfans.com/uc_server/avatar.php?uid=4693&size=small" /></a></div>
+</dd>
+
+<dt class="xs2"><a href="home.php?mod=spacecp&amp;ac=share&amp;type=blog&amp;id=4515&amp;handlekey=lsbloghk_4515" id="a_share_4515" onclick="showWindow(this.id, this.href, 'get', 0);" class="oshr xs1 xw0">·ÖÏí</a>
+<a href="home.php?mod=space&amp;uid=4693&amp;do=blog&amp;id=4515" target="_blank">¼ÇÂ¼ÏÂÕâÒ»Ìì£º¡¶Á½µØÏàË¼¡··¢²¼ÏÂÔØºÍÔÚÏß</a>
+</dt>
+<dd>
+<a href="space-uid-4693.html">lily_zl</a> <span class="xg1">2010-6-28 12:27</span>
+</dd>
+<dd class="cl" id="blog_article_4515">
+<div class="atc"><a href="home.php?mod=space&amp;uid=4693&amp;do=blog&amp;id=4515" target="_blank"><img src="data/attachment/album/201006/28/122742o6u07pe6p2tqu2op.jpg.thumb.jpg" alt="¼ÇÂ¼ÏÂÕâÒ»Ìì£º¡¶Á½µØÏàË¼¡··¢²¼ÏÂÔØºÍÔÚÏß" class="tn" /></a></div>ºÇºÇ£¬×òÌìÔÚÅóÓÑµÄ°ïÖúÏÂÎÒ³¢ÊÔÓÃÁËĞÂ°ì·¨ºÏ²¢ÊÓÆµ£¬³É¹¦µÄ¸Ğ¾õÍ¦ºÃµÄ¡£ËäÈ»´ÓµÈ´ı·­Òë¡¢ÂäÊµÆ¬Ô´£¬µ½ÖÆ×÷×ÖÄ»¡¢Ñ¹ÖÆ¡¢ºÏ²¢¡¢ÉÏ´«Ò»ÏµÁĞ¹ı³ÌºÜ·±Ëö£¬Ò²ºÜ·ÑÊ±£»ËäÈ»×ö³öÀ´µÄ¶«Î÷²»ÊÇ¾¡ÉÆ¾¡ÃÀ£¬µ«ÒÀ¾ÉÊÇ¿ªĞÄµÄ¡£ÕæÕıÊÇÀÛ²¢¿ìÀÖ×Å¡£    ÏÖÔÚ£¬2003ÄêµÄtik½ÜÎ÷´ï°îºÍMaam K McIntoshºÏ×÷¡¶Á½µØÏàË¼¡·ÖĞÎÄ×ÖÄ»°æÖÕÓÚ¿ÉÒÔºÍ´ó ...</dd>
+<dd class="xg1">
+¸öÈË·ÖÀà: <a href="home.php?mod=space&amp;uid=4693&amp;do=blog&amp;classid=104&amp;view=me">my creation</a><span class="pipe">|</span><a href="home.php?mod=space&amp;uid=4693&amp;do=blog&amp;id=4515" target="_blank">23656 ´ÎÔÄ¶Á</a><span class="pipe">|</span><a href="home.php?mod=space&amp;uid=4693&amp;do=blog&amp;id=4515#comment" target="_blank"><span id="replynum_4515">11</span> ¸öÆÀÂÛ</a>
+<span class="hot">ÈÈ¶È <em>14</em> </span></dd>
+</dl>
+<dl class="bbda">
+<dd class="m">
+<div class="avt"><a href="space-uid-4693.html" c="1"><img src="http://www.chinatikfans.com/uc_server/avatar.php?uid=4693&size=small" /></a></div>
+</dd>
+
+<dt class="xs2"><a href="home.php?mod=spacecp&amp;ac=share&amp;type=blog&amp;id=4356&amp;handlekey=lsbloghk_4356" id="a_share_4356" onclick="showWindow(this.id, this.href, 'get', 0);" class="oshr xs1 xw0">·ÖÏí</a>
+<a href="home.php?mod=space&amp;uid=4693&amp;do=blog&amp;id=4356" target="_blank">Tik2006ÄêÉÏArsoonRaChaiµçÊÓ·ÃÌ¸½ÚÄ¿£¨ÖĞ×Ö£©</a>
+</dt>
+<dd>
+<a href="space-uid-4693.html">lily_zl</a> <span class="xg1">2010-4-28 16:39</span>
+</dd>
+<dd class="cl" id="blog_article_4356">
+×ÖÄ»Ñ§Ï°³É¹û»ã±¨¡£Õâ´ÎµÄ¸Ä½øÔÚ±È½Ï¾ßÌå»¯µÄµØ·½£¬ÎÒÒÔÇ°Ò²Ã»¶à¼Ó×¢Òâ¡£Ğ»Ğ»ÅóÓÑµÄÖ¸µã£¬ÎÒ¾õµÃÑ§Ï°ÁËĞÂ¶«Î÷ºÜ¿ªĞÄ£¬·ÖÏí³É¹û¡£ÆäÊµÒ²¾ÍÊÇÂÛÌ³Ç°Ì¨µÄ2006ÄêTikÉÏArsoonRaChaiµçÊÓ½ÚÄ¿µÄÊÓÆµ£¬ÖĞÎÄ×ÖÄ»À²¡£     http://www.chinatikfans.com/thread-28272-1-1.html     </dd>
+<dd class="xg1">
+¸öÈË·ÖÀà: <a href="home.php?mod=space&amp;uid=4693&amp;do=blog&amp;classid=104&amp;view=me">my creation</a><span class="pipe">|</span><a href="home.php?mod=space&amp;uid=4693&amp;do=blog&amp;id=4356" target="_blank">21663 ´ÎÔÄ¶Á</a><span class="pipe">|</span><a href="home.php?mod=space&amp;uid=4693&amp;do=blog&amp;id=4356#comment" target="_blank"><span id="replynum_4356">3</span> ¸öÆÀÂÛ</a>
+<span class="hot">ÈÈ¶È <em>6</em> </span></dd>
+</dl>
+<dl class="bbda">
+<dd class="m">
+<div class="avt"><a href="space-uid-4693.html" c="1"><img src="http://www.chinatikfans.com/uc_server/avatar.php?uid=4693&size=small" /></a></div>
+</dd>
+
+<dt class="xs2"><a href="home.php?mod=spacecp&amp;ac=share&amp;type=blog&amp;id=4106&amp;handlekey=lsbloghk_4106" id="a_share_4106" onclick="showWindow(this.id, this.href, 'get', 0);" class="oshr xs1 xw0">·ÖÏí</a>
+<a href="home.php?mod=space&amp;uid=4693&amp;do=blog&amp;id=4106" target="_blank">Tik2010ÄêÉÏWoody½ÚÄ¿ÊÓÆµ3£¨ÖĞ×Ö£©</a>
+</dt>
+<dd>
+<a href="space-uid-4693.html">lily_zl</a> <span class="xg1">2010-2-14 17:43</span>
+</dd>
+<dd class="cl" id="blog_article_4106">
+ºÇºÇ£¬ËãËÍ¸ø´ó¼ÒµÄÇéÈË½ÚÀñÎï¡£Tik2010Äê1ÔÂ17ÈÕÉÏWoodyÍÑ¿ÚĞã½ÚÄ¿µÚ3½Ú£¬ÖĞÓ¢×ÖÄ»£¬ĞÂÏÊ³öÂ¯¡£     http://www.56.com/u79/v_NDk1NDk3ODg.html  http://www.56.com/n_v162_/c50_/22_/19_/lily_zl_/126612472712hd_/648000_/0_/49549788.swf                             ÂÛÌ³Ç°Ì¨×î ...</dd>
+<dd class="xg1">
+¸öÈË·ÖÀà: <a href="home.php?mod=space&amp;uid=4693&amp;do=blog&amp;classid=104&amp;view=me">my creation</a><span class="pipe">|</span><a href="home.php?mod=space&amp;uid=4693&amp;do=blog&amp;id=4106" target="_blank">13412 ´ÎÔÄ¶Á</a><span class="pipe">|</span><a href="home.php?mod=space&amp;uid=4693&amp;do=blog&amp;id=4106#comment" target="_blank"><span id="replynum_4106">7</span> ¸öÆÀÂÛ</a>
+<span class="hot">ÈÈ¶È <em>8</em> </span></dd>
+</dl>
+<dl class="bbda">
+<dd class="m">
+<div class="avt"><a href="space-uid-4693.html" c="1"><img src="http://www.chinatikfans.com/uc_server/avatar.php?uid=4693&size=small" /></a></div>
+</dd>
+
+<dt class="xs2"><a href="home.php?mod=spacecp&amp;ac=share&amp;type=blog&amp;id=3961&amp;handlekey=lsbloghk_3961" id="a_share_3961" onclick="showWindow(this.id, this.href, 'get', 0);" class="oshr xs1 xw0">·ÖÏí</a>
+<a href="home.php?mod=space&amp;uid=4693&amp;do=blog&amp;id=3961" target="_blank">09ÄêÄ©·­ÒëÇøÏ×ÀñÍÆ³ö£ºTik×÷Æ·ÒôÀÖÖ®ÂÃ£¨ÖĞÎÄÊÓÆµ£©</a>
+</dt>
+<dd>
+<a href="space-uid-4693.html">lily_zl</a> <span class="xg1">2009-12-17 09:55</span>
+</dd>
+<dd class="cl" id="blog_article_3961">
+¸Õ²Å¾­¹ıÊÔÑé£¬ÏÂÃæÕâ¸öÁ´½ÓÊÇ¿ÉÒÔÏÂÔØµÄ£¬ÓĞĞ§ÆÚ7Ìì¡£Çë´ó¼Ò×¥½ôÊ±»úÏÂÔØĞÀÉÍ¡£         http://www.namipan.com/d/tik%e5%89%a7%e9%9b%86%e6%ad%8c%e6%9b%b2%e9%9b%86%ef%bc%88%e4%b8%ad%e6%96%87%ef%bc%89.zip/74bbf2ddb28c2b78dbf91a28bb44f36d4ae57c26c37a8915</dd>
+<dd class="xg1">
+¸öÈË·ÖÀà: <a href="home.php?mod=space&amp;uid=4693&amp;do=blog&amp;classid=104&amp;view=me">my creation</a><span class="pipe">|</span><a href="home.php?mod=space&amp;uid=4693&amp;do=blog&amp;id=3961" target="_blank">10741 ´ÎÔÄ¶Á</a><span class="pipe">|</span><a href="home.php?mod=space&amp;uid=4693&amp;do=blog&amp;id=3961#comment" target="_blank"><span id="replynum_3961">4</span> ¸öÆÀÂÛ</a>
+<span class="hot">ÈÈ¶È <em>4</em> </span></dd>
+</dl>
+<dl class="bbda">
+<dd class="m">
+<div class="avt"><a href="space-uid-4693.html" c="1"><img src="http://www.chinatikfans.com/uc_server/avatar.php?uid=4693&size=small" /></a></div>
+</dd>
+
+<dt class="xs2"><a href="home.php?mod=spacecp&amp;ac=share&amp;type=blog&amp;id=3954&amp;handlekey=lsbloghk_3954" id="a_share_3954" onclick="showWindow(this.id, this.href, 'get', 0);" class="oshr xs1 xw0">·ÖÏí</a>
+<a href="home.php?mod=space&amp;uid=4693&amp;do=blog&amp;id=3954" target="_blank">Ô¤¸æ£ºÂÛÌ³·­ÒëÇø09ÄêÄêÄ©´óÀñ--tikÓ°ÊÓ×÷Æ·ÒôÀÖÖ®ÂÃ£ºÖĞÎÄ×ÖÄ»ÒôÀÖ¼¯</a>
+</dt>
+<dd>
+<a href="space-uid-4693.html">lily_zl</a> <span class="xg1">2009-12-13 16:50</span>
+</dd>
+<dd class="cl" id="blog_article_3954">
+¸èÇúÃû³Æ       ÊÓÆµÀ´Ô´      ·­ÒëÕß      ÊÓÆµÖĞÎÄ×ÖÄ»ÖÆ×÷Õß      ±¸×¢          ËÕ´òºÍ±ù²èÆ¬Í·Çú      ÍÁ¶¹Íø      Ì©ÒëÓ¢£ºyuemom;Ó¢ÒëÖĞ£ºylp67;lily_zl      lily_zl                ËÕ´òºÍ±ù²èÆ¬Î²Çú      ÍÁ¶¹Íø      Ì©ÒëÖĞ£ºJane_xyp;Ğ£¶Ô£ºeriokploy      lily_zl            ...</dd>
+<dd class="xg1">
+¸öÈË·ÖÀà: <a href="home.php?mod=space&amp;uid=4693&amp;do=blog&amp;classid=104&amp;view=me">my creation</a><span class="pipe">|</span><a href="home.php?mod=space&amp;uid=4693&amp;do=blog&amp;id=3954" target="_blank">11468 ´ÎÔÄ¶Á</a><span class="pipe">|</span><a href="home.php?mod=space&amp;uid=4693&amp;do=blog&amp;id=3954#comment" target="_blank"><span id="replynum_3954">29</span> ¸öÆÀÂÛ</a>
+<span class="hot">ÈÈ¶È <em>20</em> </span></dd>
+</dl>
+<dl class="bbda">
+<dd class="m">
+<div class="avt"><a href="space-uid-4693.html" c="1"><img src="http://www.chinatikfans.com/uc_server/avatar.php?uid=4693&size=small" /></a></div>
+</dd>
+
+<dt class="xs2"><a href="home.php?mod=spacecp&amp;ac=share&amp;type=blog&amp;id=3523&amp;handlekey=lsbloghk_3523" id="a_share_3523" onclick="showWindow(this.id, this.href, 'get', 0);" class="oshr xs1 xw0">·ÖÏí</a>
+<a href="home.php?mod=space&amp;uid=4693&amp;do=blog&amp;id=3523" target="_blank">¹¤×÷ÈËÔ±ĞÄÂ·Àú³Ì/ÈÕÖ¾ÏµÁĞÖ®lily_zlµÄ°ÏÉæ¸Ğ»³</a>
+</dt>
+<dd>
+<a href="space-uid-4693.html">lily_zl</a> <span class="xg1">2009-9-14 11:17</span>
+</dd>
+<dd class="cl" id="blog_article_3523">
+´ó¼ÒºÃ¡£ÕâÀïÊÇ¹¤×÷ÈËÔ±ĞÄÂ·Àú³Ì/ÈÕÖ¾ÖĞ£¬¹ØÓÚÎÒ(lily_zl)µÄÈ«²¿ÎÄ×Ö²¿·Ö¡£ÅäÍ¼°æµÄÔÚÂÛÌ³ÃÀÎÄÇø¹¤×÷ÈËÔ±·ÖÇø¡£         ¹¤×÷ÈËÔ±¹¤×÷ÈÕÖ¾       /       ĞÄÂ·Àú³Ì               Ö®       lily_zl      µÄ°ÏÉæ¸Ğ»³                          Ç°ÑÔ£º    ÎÒÈÏÎª×Ô¼ºÊÇ¸ö²»ÉÃ±í´ïµÄÈË£¬ºÜ¶à¶«Î÷²ØÔÚĞÄÀï×Ü¾õµÃÎŞ·¨ÍêÃÀ ...</dd>
+<dd class="xg1">
+¸öÈË·ÖÀà: <a href="home.php?mod=space&amp;uid=4693&amp;do=blog&amp;classid=104&amp;view=me">my creation</a><span class="pipe">|</span><a href="home.php?mod=space&amp;uid=4693&amp;do=blog&amp;id=3523" target="_blank">26584 ´ÎÔÄ¶Á</a><span class="pipe">|</span><a href="home.php?mod=space&amp;uid=4693&amp;do=blog&amp;id=3523#comment" target="_blank"><span id="replynum_3523">44</span> ¸öÆÀÂÛ</a>
+<span class="hot">ÈÈ¶È <em>22</em> </span></dd>
+</dl>
+<p class="mtm">±¾Ò³ÓĞ 4 ÆªÈÕÖ¾Òò×÷ÕßµÄÒşË½ÉèÖÃ»òÎ´Í¨¹ıÉóºË¶øÒş²Ø</p>
+</div>
+</div>
+</div>
+
+
+<script type="text/javascript">
+function fuidgoto(fuid) {
+var parameter = fuid != '' ? '&fuid='+fuid : '';
+window.location.href = 'home.php?mod=space&do=blog&view=we'+parameter;
+}
+</script>	</div>
+<div id="ft" class="wp cl">
+<div id="flk" class="y">
+<p>
+<a href="forum.php?mod=misc&action=showdarkroom" >Ğ¡ºÚÎİ</a><span class="pipe">|</span><a href="forum.php?mobile=yes" >ÊÖ»ú°æ</a><span class="pipe">|</span><a href="archiver/" >Archiver</a><span class="pipe">|</span><strong><a href="http://www.chinatikfans.com" target="_blank">&#1769;tikÖĞ¹úÓ°ÃÔ»á&#1769;</a></strong>
+<script src="http://s25.cnzz.com/stat.php?id=4021224&web_id=4021224&show=pic" language="JavaScript"></script>
+</p>
+<p class="xs0">
+GMT+8, 2025-4-17 22:32<span id="debuginfo">
+, Processed in 0.037848 second(s), 3 queries
+, Gzip On, File On.
+</span>
+</p>
+</div>
+<div id="frt">
+<p>Powered by <strong><a href="http://www.discuz.net" target="_blank">Discuz!</a></strong> <em>X3.4</em></p>
+<p class="xs0">Copyright &copy; 2001-2020, Tencent Cloud.</p>
+</div></div>
+<script src="home.php?mod=misc&ac=sendmail&rand=1744900355" type="text/javascript"></script>
+
+<div id="scrolltop">
+<span hidefocus="true"><a title="·µ»Ø¶¥²¿" onclick="window.scrollTo('0','0')" class="scrolltopa" ><b>·µ»Ø¶¥²¿</b></a></span>
+</div>
+<script type="text/javascript">_attachEvent(window, 'scroll', function () { showTopLink(); });checkBlind();</script>
+</body>
+</html>
+
+
+WARC/1.0
+WARC-Type: metadata
+WARC-Date: 2025-04-17T14:32:36Z
+WARC-Record-ID: <urn:uuid:56a8cd7f-c204-4af3-af0f-9fbe0d7ff215>
+Content-Length: 286
+Content-Type: application/warc-fields
+WARC-Warcinfo-ID: <urn:uuid:7cd96d88-0017-4446-8d17-4518dc8c22ec>
+WARC-Concurrent-To: <urn:uuid:8673e068-bed0-45ac-a821-b6cd217f8a1d>
+WARC-Target-URI: http://10www.chinatikfans.com/home.php?mod=space&uid=4693&do=blog&classid=104&view=me
+
+fetchTimeMs: 609
+charset-detected: GBK
+languages-cld2: {"reliable":true,"text-bytes":3273,"languages":[{"code":"zh","code-iso-639-3":"zho","text-covered":0.74,"score":2005.0,"name":"Chinese"},{"code":"en","code-iso-639-3":"eng","text-covered":0.1,"score":982.0,"name":"ENGLISH"}]}
+
+
+
+WARC/1.0
+WARC-Type: request
+WARC-Date: 2025-04-17T14:42:12Z
+WARC-Record-ID: <urn:uuid:f70ff061-3ae4-4ca6-8ea0-853e5412e376>
+Content-Length: 299
+Content-Type: application/http; msgtype=request
+WARC-Warcinfo-ID: <urn:uuid:7cd96d88-0017-4446-8d17-4518dc8c22ec>
+WARC-IP-Address: 174.136.102.236
+WARC-Target-URI: http://13.usnccm.org/
+WARC-Protocol: http/1.1
+
+GET / HTTP/1.1
+User-Agent: CCBot/2.0 (https://commoncrawl.org/faq/)
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+If-Modified-Since: Thu, 20 Mar 2025 14:29:38 GMT
+Accept-Encoding: br,gzip
+Host: 13.usnccm.org
+Connection: Keep-Alive
+
+
+
+WARC/1.0
+WARC-Type: response
+WARC-Date: 2025-04-17T14:42:12Z
+WARC-Record-ID: <urn:uuid:95395b72-f7ac-484b-80f0-9d4f5ac4d2b6>
+Content-Length: 18370
+Content-Type: application/http; msgtype=response
+WARC-Warcinfo-ID: <urn:uuid:7cd96d88-0017-4446-8d17-4518dc8c22ec>
+WARC-Concurrent-To: <urn:uuid:f70ff061-3ae4-4ca6-8ea0-853e5412e376>
+WARC-IP-Address: 174.136.102.236
+WARC-Target-URI: http://13.usnccm.org/
+WARC-Protocol: http/1.1
+WARC-Payload-Digest: sha1:UHKQ5AS7NCGDTEBWWMVBDTK4TFDFRLBH
+WARC-Block-Digest: sha1:OJ6W6CNJUWXTTYUKJAJUTWNSVPUTNQJA
+WARC-Identified-Payload-Type: application/xhtml+xml
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 17 Apr 2025 14:42:12 GMT
+Content-Type: text/html; charset=utf-8
+X-Crawler-Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/5.5.38-1~dotdeb+7.1
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Cache-Control: no-cache, must-revalidate
+Content-Language: en
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+X-Generator: Drupal 7 (http://drupal.org)
+Link: </node/welcome>; rel="canonical",</node/24>; rel="shortlink"
+X-Frame-Options: SAMEORIGIN
+X-Crawler-Content-Encoding: gzip
+Content-Length: 17795
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/node/welcome" />
+<link rel="shortlink" href="/node/24" />
+<link rel="shortcut icon" href="http://13.usnccm.org/misc/favicon.ico" type="image/vnd.microsoft.icon" />
+  <title>Welcome to USNCCM13! | USNCCM 13</title>
+  <style type="text/css" media="all">
+@import url("http://13.usnccm.org/modules/system/system.base.css?s7e0cg");
+@import url("http://13.usnccm.org/modules/system/system.menus.css?s7e0cg");
+@import url("http://13.usnccm.org/modules/system/system.messages.css?s7e0cg");
+@import url("http://13.usnccm.org/modules/system/system.theme.css?s7e0cg");
+</style>
+<style type="text/css" media="all">
+@import url("http://13.usnccm.org/sites/all/modules/adaptive_image/css/adaptive-image.css?s7e0cg");
+@import url("http://13.usnccm.org/modules/comment/comment.css?s7e0cg");
+@import url("http://13.usnccm.org/modules/field/theme/field.css?s7e0cg");
+@import url("http://13.usnccm.org/modules/node/node.css?s7e0cg");
+@import url("http://13.usnccm.org/modules/search/search.css?s7e0cg");
+@import url("http://13.usnccm.org/modules/user/user.css?s7e0cg");
+@import url("http://13.usnccm.org/sites/all/modules/views/css/views.css?s7e0cg");
+</style>
+<style type="text/css" media="all">
+@import url("http://13.usnccm.org/sites/all/modules/ctools/css/ctools.css?s7e0cg");
+@import url("http://13.usnccm.org/sites/all/modules/dhtml_menu/dhtml_menu.css?s7e0cg");
+@import url("http://13.usnccm.org/sites/all/modules/tables/tables-filter.css?s7e0cg");
+@import url("http://13.usnccm.org/sites/all/modules/taxonomy_access/taxonomy_access.css?s7e0cg");
+</style>
+<style type="text/css" media="all">
+@import url("http://13.usnccm.org/sites/all/themes/bartik-siriad/css/layout.css?s7e0cg");
+@import url("http://13.usnccm.org/sites/all/themes/bartik-siriad/css/style.css?s7e0cg");
+@import url("http://13.usnccm.org/sites/all/themes/bartik-siriad/css/colors.css?s7e0cg");
+</style>
+<style type="text/css" media="print">
+@import url("http://13.usnccm.org/sites/all/themes/bartik-siriad/css/print.css?s7e0cg");
+</style>
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://13.usnccm.org/themes/bartik/css/ie.css?s7e0cg" media="all" />
+<![endif]-->
+
+<!--[if IE 6]>
+<link type="text/css" rel="stylesheet" href="http://13.usnccm.org/themes/bartik/css/ie6.css?s7e0cg" media="all" />
+<![endif]-->
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+document.cookie = 'adaptive_image=' + Math.max(screen.width, screen.height) + '; path=/';
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://13.usnccm.org/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://13.usnccm.org/misc/jquery-extend-3.4.0.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://13.usnccm.org/misc/jquery-html-prefilter-3.5.0-backport.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://13.usnccm.org/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://13.usnccm.org/misc/drupal.js?s7e0cg"></script>
+<script type="text/javascript" src="http://13.usnccm.org/sites/all/modules/dhtml_menu/dhtml_menu.js?s7e0cg"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"siriad","theme_token":"ctPAF4TUOaAPLEntddKl0aB1B9APecHr9AZ0nBRFwsQ","js":{"0":1,"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/dhtml_menu\/dhtml_menu.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/adaptive_image\/css\/adaptive-image.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/dhtml_menu\/dhtml_menu.css":1,"sites\/all\/modules\/tables\/tables-filter.css":1,"sites\/all\/modules\/taxonomy_access\/taxonomy_access.css":1,"sites\/all\/themes\/bartik-siriad\/css\/layout.css":1,"sites\/all\/themes\/bartik-siriad\/css\/style.css":1,"sites\/all\/themes\/bartik-siriad\/css\/colors.css":1,"sites\/all\/themes\/bartik-siriad\/css\/print.css":1,"themes\/bartik\/css\/ie.css":1,"themes\/bartik\/css\/ie6.css":1}},"dhtmlMenu":{"nav":"open","animation":{"effects":{"height":"height","opacity":"opacity","width":0},"speed":"500"},"effects":{"siblings":"close-same-tree","children":"none","remember":"0"},"filter":{"type":"blacklist","list":{"menu-accomo-site-links":"menu-accomo-site-links","menu-contact-site-links":"menu-contact-site-links","menu-finaid-site-links":"menu-finaid-site-links","menu-minisymp-site-links":"menu-minisymp-site-links","menu-org-site-links":"menu-org-site-links","menu-program-site-links":"menu-program-site-links","main-menu":0,"management":0,"menu-contact":0,"menu-organization":0,"menu-program":0,"menu-registration":0,"menu-site-links":0,"menu-test":0,"navigation":0,"shortcut-set-1":0,"user-menu":0}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html front not-logged-in two-sidebars page-node page-node- page-node-24 node-type-page footer-columns" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div id="page-wrapper"><div id="page">
+
+  <div id="header" class="without-secondary-menu"><div class="section clearfix">
+
+          <a href="/" title="Home" rel="home" id="logo">
+        <img src="http://13.usnccm.org/sites/default/files/sandiego_water4.jpg" alt="Home" />
+      </a>
+    
+          <div id="name-and-slogan" class="element-invisible">
+
+                              <div id="site-name" class="element-invisible">
+              <strong>
+                <a href="/" title="Home" rel="home"><span>USNCCM 13</span></a>
+              </strong>
+            </div>
+                  
+                  <div id="site-slogan" class="element-invisible">
+            13th US National Congress on Computational Mechanics <br> San Diego, CA<br>July 26-30, 2015          </div>
+        
+      </div> <!-- /#name-and-slogan -->
+    
+    
+          <div id="main-menu" class="navigation">
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu-links" class="links clearfix"><li class="menu-227 first last active"><a href="/" class="active">Home</a></li>
+</ul>      </div> <!-- /#main-menu -->
+    
+    
+  </div></div> <!-- /.section, /#header -->
+
+  
+  
+  <div id="main-wrapper" class="clearfix"><div id="main" class="clearfix">
+
+          <div id="sidebar-first" class="column sidebar"><div class="section">
+          <div class="region region-sidebar-first">
+    <div id="block-menu-menu-site-links" class="block block-menu">
+
+    <h2>Congress Information</h2>
+  
+  <div class="content">
+    <ul class="menu clearfix"><li class="first leaf dhtml-menu" id="dhtml_menu-658"><a href="/important-dates" title="">Important Dates</a></li>
+<li class="collapsed dhtml-menu start-collapsed" id="dhtml_menu-377"><a href="/organization" title="">Organization</a><ul class="menu clearfix"><li class="first leaf dhtml-menu" id="dhtml_menu-378"><a href="/local-organizing-committee" title="">Local Organizing Committee</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-379"><a href="/scientific-organizing-committee" title="">Scientific Organizing Committee</a></li>
+<li class="last leaf dhtml-menu" id="dhtml_menu-380"><a href="/advisory-committee" title="">USACM Advisory Committee</a></li>
+</ul></li>
+<li class="collapsed dhtml-menu start-collapsed" id="dhtml_menu-389"><a href="/contact" title="">Contact</a><ul class="menu clearfix"><li class="first leaf dhtml-menu" id="dhtml_menu-390"><a href="/local-contact" title="">Congress Co-Chairs</a></li>
+<li class="last leaf dhtml-menu" id="dhtml_menu-391"><a href="/congress-contact" title="">Administrative Contact</a></li>
+</ul></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-386"><a href="/plenary-and-semi-plenary-speakers" title="">Plenary and Semi-Plenary Speakers</a></li>
+<li class="collapsed dhtml-menu start-collapsed" id="dhtml_menu-381"><a href="/minisymposia" title="">Minisymposia</a><ul class="menu clearfix"><li class="first leaf dhtml-menu" id="dhtml_menu-985"><a href="/congress_ms" title="">Congress Minisymposia</a></li>
+<li class="last leaf dhtml-menu" id="dhtml_menu-384"><a href="/minisymposia-organizers-page" title="">Minisymposia Organizers&#039; Page</a></li>
+</ul></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-401"><a href="/abstract_instructions" title="">Abstract Submission</a></li>
+<li class="collapsed dhtml-menu start-collapsed" id="dhtml_menu-385"><a href="/program" title="">Program</a><ul class="menu clearfix"><li class="first leaf dhtml-menu" id="dhtml_menu-388"><a href="/technical-program" title="">Technical Program</a></li>
+<li class="last leaf dhtml-menu" id="dhtml_menu-387"><a href="/social-program" title="">Social Program</a></li>
+</ul></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-871"><a href="/presenter_instructions" title="">Presenter Instructions</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-811"><a href="/poster_session" title="">AHPCRC Student Poster Competition</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-402"><a href="http://13.usnccm.org/Short Courses" title="">Short Courses</a></li>
+<li class="collapsed dhtml-menu start-collapsed" id="dhtml_menu-399"><a href="/financial-assistance" title="">Financial Assistance</a><ul class="menu clearfix"><li class="first last leaf dhtml-menu" id="dhtml_menu-400"><a href="/travel_award_app" title="">USNCCM13 Travel Awards Information and Application</a></li>
+</ul></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-392"><a href="/accommodations" title="">Accommodations</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-663"><a href="/registration" title="">Registration</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-403"><a href="/sponsors-exhibitors" title="">Sponsors and Exhibitors</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-809"><a href="/venue" title="">Venue</a></li>
+<li class="last leaf dhtml-menu" id="dhtml_menu-867"><a href="/travel_info" title="">Travel Information</a></li>
+</ul>  </div>
+</div>
+  </div>
+      </div></div> <!-- /.section, /#sidebar-first -->
+    
+    <div id="content" class="column"><div class="section">
+            <a id="main-content"></a>
+                    <h1 class="title" id="page-title">
+          Welcome to USNCCM13!        </h1>
+                          <div class="tabs">
+                  </div>
+                          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-24" class="node node-page node-promoted node-full clearfix" about="/node/welcome" typeof="foaf:Document">
+
+      <span property="dc:title" content="Welcome to USNCCM13!" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><strong><span style="color:#0000cd;">New!Â  </span>Photos from the congress are now available <a href="https://flic.kr/s/aHskhAChDr">here.</a></strong></p>
+<p><strong>The printed program is now available for downloading <a href="/sites/default/files/USNCCM13TechnicalProgramFINAL3-C-092015.pdf">here</a>.</strong></p>
+<p><strong>Abstracts for USNCCM13 are now available, ordered by presenting author: <a href="/sites/default/files/13_USNCCM_Abstracts_A-M.pdf" target="_blank">A-M</a> and <a href="/sites/default/files/13_USNCCM_Abstracts_N-Z.pdf" target="_blank">N-Z</a></strong></p>
+<p>Â </p>
+<p>A preliminary searchable schedule is now available.Â  Go to <a href="http://13.usnccm.org/program">http://13.usnccm.org/program</a> for more information.</p>
+<p><strong>The dates of the technical program of the Congress are Monday, July 27, 2015 - Thursday, July 30, 2015.</strong></p>
+<p><strong>Pre-congress short courses will take place on July 26, 2015.</strong></p>
+<p>Welcome to USACM's 13th U.S. National Congress on Computational Mechanics (USNCCM13) to be held in San Diego, California, at the <em>Manchester Grand Hyatt, July 26-30, 2015</em>.</p>
+<p>From their inception in 1991, the biennial congresses of the U.S. Association for Computational Mechanics have become major scientific events, drawing computational engineers and scientists worldwide from government, academia, and industry.Â  The congress provides a forum for researchers and practitioners all over the world to discuss the latest advancements and future directions in fields pertaining to computational engineering and sciences.</p>
+<p>The congress will feature plenary speakers, over 100 mini-symposia with keynote lectures and contributed talks, a student poster competition, and exhibits from various sponsors.</p>
+<p>Â </p>
+</div></div></div>  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+      
+    </div></div> <!-- /.section, /#content -->
+
+          <div id="sidebar-second" class="column sidebar"><div class="section">
+          <div class="region region-sidebar-second">
+    <div id="block-block-8" class="block block-block">
+
+    
+  <div class="content">
+    <p></p><center><img alt="bridge_USACM_trim.jpg" src="/sites/default/files/bridge_USACM_trim.jpg" height="140" width="150" /></center>
+  </div>
+</div>
+<div id="block-menu-menu-raleigh-information" class="block block-menu">
+
+    <h2>Area Information</h2>
+  
+  <div class="content">
+    <ul class="menu clearfix"><li class="first leaf dhtml-menu" id="dhtml_menu-651"><a href="http://www.sandiego.org/plan-your-trip/visitor-information.aspx" title="">Things to do in San Diego</a></li>
+<li class="leaf dhtml-menu" id="dhtml_menu-659"><a href="http://www.visitcalifornia.com/" title="">Things to do in Southern California</a></li>
+<li class="last leaf dhtml-menu" id="dhtml_menu-654"><a href="http://ucsd.edu" title="">University of California, San Diego</a></li>
+</ul>  </div>
+</div>
+<div id="block-block-4" class="block block-block">
+
+    
+  <div class="content">
+    <p>Â </p>
+<p style="text-align: center;"><a href="http://www.usacm.org" target="_blank"><img alt="USACM_LOGO_0.jpg" src="/sites/default/files/USACM_LOGO_0.jpg" height="47" width="143" /></a></p>
+<p style="text-align: center;">Â Â Â  <img alt="AHPCRC Logo 2015.jpg" src="/sites/default/files/AHPCRC%20Logo%202015.jpg" height="83" width="154" /></p>
+<p>Â </p>
+<p style="text-align: center;"><img alt="Elsevierlogo.jpg" src="/sites/default/files/Elsevierlogo.jpg" height="129" width="111" /></p>
+<p style="text-align: center;">Â </p>
+<div id="preview-wrapper" style="height: 219px;">
+<div id="file-preview">
+<p><img alt="logo_simpleware.jpg" src="/sites/default/files/logo_simpleware.jpg" style="float: right;" height="36" width="140" /></p>
+<p style="text-align: center;">Â </p>
+<p style="text-align: center;">Â </p>
+<p style="text-align: center;">Â </p>
+<p style="text-align: center;"><img alt="SIAM logo.jpg" src="/sites/default/files/SIAM%20logo.jpg" height="44" width="165" /></p>
+<p style="text-align: center;">Â </p>
+<p style="text-align: center;"><a href="http://www.wiley.com" target="_blank"><img alt="" src="/sites/default/files/11875.gif" height="58" width="149" /></a></p>
+<p style="text-align: center;">Â </p>
+</div>
+</div>
+<p>Â </p>
+<p>Â </p>
+<p>Â </p>
+  </div>
+</div>
+  </div>
+      </div></div> <!-- /.section, /#sidebar-second -->
+    
+  </div></div> <!-- /#main, /#main-wrapper -->
+
+  
+  <div id="footer-wrapper"><div class="section">
+
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-firstcolumn">
+    <div id="block-block-1" class="block block-block">
+
+    
+  <div class="content">
+    <p>Â© Copyright 2013, USACM<br />Hosting provided by: <a href="http://www.siriad.com">Siriad</a></p>
+  </div>
+</div>
+  </div>
+                              </div> <!-- /#footer-columns -->
+    
+          <div id="footer" class="clearfix">
+          <div class="region region-footer">
+    <div id="block-block-2" class="block block-block">
+
+    
+  <div class="content">
+    <p></p><center>Â© Copyright 2012, USACM<br />Hosting provided by: <a href="http://www.siriad.com">Siriad</a>
+<!-- IPv6-test.com button BEGIN --><p><a href="http://ipv6-test.com/validate.php?url=referer"><img alt="ipv6 ready" src="http://ipv6-test.com/button-ipv6-80x15.png" title="ipv6 ready" border="0" /></a> </p>
+<!-- IPv6-test.com button END --><p></p></center>
+  </div>
+</div>
+  </div>
+      </div> <!-- /#footer -->
+    
+  </div></div> <!-- /.section, /#footer-wrapper -->
+
+</div></div> <!-- /#page, /#page-wrapper -->
+  </body>
+</html>
+
+
+WARC/1.0
+WARC-Type: metadata
+WARC-Date: 2025-04-17T14:42:12Z
+WARC-Record-ID: <urn:uuid:83d70011-da78-4743-8fcf-e6452665477d>
+Content-Length: 201
+Content-Type: application/warc-fields
+WARC-Warcinfo-ID: <urn:uuid:7cd96d88-0017-4446-8d17-4518dc8c22ec>
+WARC-Concurrent-To: <urn:uuid:95395b72-f7ac-484b-80f0-9d4f5ac4d2b6>
+WARC-Target-URI: http://13.usnccm.org/
+
+fetchTimeMs: 476
+charset-detected: UTF-8
+languages-cld2: {"reliable":true,"text-bytes":2092,"languages":[{"code":"en","code-iso-639-3":"eng","text-covered":0.99,"score":1055.0,"name":"ENGLISH"}]}
+
+
+
+WARC/1.0
+WARC-Type: request
+WARC-Date: 2025-04-17T15:41:41Z
+WARC-Record-ID: <urn:uuid:648094c3-8b72-4d97-8b19-706d84b25cd7>
+Content-Length: 300
+Content-Type: application/http; msgtype=request
+WARC-Warcinfo-ID: <urn:uuid:7cd96d88-0017-4446-8d17-4518dc8c22ec>
+WARC-IP-Address: 220.228.6.116
+WARC-Target-URI: http://176.utchat888.com/index.phtml?PUT=gift_send&AID=220083&FID=632054
+WARC-Protocol: http/1.1
+
+GET /index.phtml?PUT=gift_send&AID=220083&FID=632054 HTTP/1.1
+User-Agent: CCBot/2.0 (https://commoncrawl.org/faq/)
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: br,gzip
+Host: 176.utchat888.com
+Connection: Keep-Alive
+
+
+
+WARC/1.0
+WARC-Type: response
+WARC-Date: 2025-04-17T15:41:41Z
+WARC-Record-ID: <urn:uuid:90bde56d-f66e-49d5-81cc-8c09a04c3568>
+Content-Length: 30395
+Content-Type: application/http; msgtype=response
+WARC-Warcinfo-ID: <urn:uuid:7cd96d88-0017-4446-8d17-4518dc8c22ec>
+WARC-Concurrent-To: <urn:uuid:648094c3-8b72-4d97-8b19-706d84b25cd7>
+WARC-IP-Address: 220.228.6.116
+WARC-Target-URI: http://176.utchat888.com/index.phtml?PUT=gift_send&AID=220083&FID=632054
+WARC-Protocol: http/1.1
+WARC-Payload-Digest: sha1:T4KVIJNONONH7NHWQIHFODZ3DTFCSCOI
+WARC-Block-Digest: sha1:Q5MOHUZ2LNPRHS4BOZ6LCP6AGOTWCY2B
+WARC-Identified-Payload-Type: text/html
+
+HTTP/1.1 200 OK
+Date: Thu, 17 Apr 2025 15:41:40 GMT
+Server: Apache/2.2.3 (CentOS)
+X-Powered-By: PHP/5.1.6
+P3P: CP="IDC DSP COR CURa ADMa OUR IND PHY ONL COM STA"
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Last-Modified: Thu, 17 Apr 2025 15:41:40 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: PHPSESSID=n9gn8ug7qla26ujdh5qndr30rdn5ch6q; path=/
+Set-Cookie: FACTORY_ID=632054; expires=Sun, 27-Apr-2025 15:41:40 GMT
+Vary: Accept-Encoding
+X-Crawler-Content-Encoding: gzip
+X-Crawler-Content-Length: 6840
+Content-Length: 29710
+Keep-Alive: timeout=15
+Connection: Keep-Alive
+Content-Type: text/html; charset=big5
+
+<html><head><title>±M¥´­¸¾÷ </title><meta http-equiv="PICS-Label" content='(PICS-1.1 "http://www.ticrf.org.tw/chinese/html/06-rating-v11.htm" l gen true for "http://176.utchat888.com" r (s 3 l 3 v 3 o 0))'><meta http-equiv="Content-Language" content="zh-tw"><meta http-equiv="Content-Type" content="text/html; charset=big5">
+<meta name="Keywords" content="¦¨¤H¼v¤ù¥´­¸¾÷,ºô¸ô§K¶O¦¨¤H¼v¤ù¥´­¸¾÷,±¡¦â¤å¾Ç¥´­¸¾÷,¥´­¸¾÷¦Û©ç,¦¨¤H¥´­¸¾÷">
+<meta name="description" content="">
+
+<style type="text/css">
+<!--
+.body {
+	font-size: 12px;
+	line-height: 20px;
+	color: #000000;
+	text-decoration: none;
+}
+.large01 {
+	font-size: 15px;
+	color: #000000;
+	text-decoration: none;
+	font-weight: normal;
+
+}
+.line {
+	font-size: 12px;
+	line-height: 5px;
+	color: #666666;
+}
+.large02 {
+	font-size: 25px;
+	color: #003366;
+	text-decoration: none;
+	font-weight: bold;
+}
+.large03 {
+	font-size: 17px;
+	color: #000000;
+	text-decoration: none;
+}
+.link_menu {
+	font-size: 15px;
+	line-height: 24px;
+	text-decoration: underline;
+}
+
+.link_menu_m {
+	font-size: 13px;
+	line-height: 22px;
+	text-decoration: underline;
+}
+
+.link_menu_s {
+	font-size: 11px;
+	line-height: 20px;
+	text-decoration: underline;
+}
+.large04 {
+	font-size: 12px;
+	color: #0000CC;
+	text-decoration: underline;
+}
+.large05 {
+	font-size: 11px;
+	line-height: 15px;
+	color: #000000;
+	text-decoration: none;
+}
+.large06 {
+	font-size: 16px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+a.body:hover {
+	font-size: 12px;
+	line-height: 20px;
+	color: #990000;
+	text-decoration: none;
+}
+a.body:link {
+	font-size: 12px;
+	line-height: 20px;
+	color: #000000;
+	text-decoration: underline;
+}
+a.large01:hover {
+	font-size: 15px;
+	line-height: 20px;
+	color: #990000;
+	text-decoration: none;
+}
+a.large01:link {
+	font-size: 15px;
+	line-height: 20px;
+	color: #000000;
+	text-decoration: underline;
+}
+td{
+	font-size: 13px;
+	line-height: 15px;
+}
+.SSS {font-size: 2px;line-height: 4px;}
+.SS {font-size: 10px;line-height: 14px;}
+.S {font-size: 12px;line-height: 16px;}
+.M {font-size: 14px;line-height: 18px;}
+.L {font-size: 16px;line-height: 20px;}
+.LL {font-size: 18px;line-height: 22px;}
+.LLL {font-size: 20px;line-height: 24px;}
+-->
+</style>
+<script language="JavaScript" type="text/JavaScript">
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+
+function aa() {
+   if (window.event.ctrlKey)
+       {
+     window.event.returnValue = false;
+         return false;
+       }
+ }
+ function bb() {
+   window.event.returnValue = false;
+ }
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+ window.open(theURL,winName,features);
+}
+</script>
+<body leftmargin='0' topmargin='0' marginwidth='0' marginheight='0'>
+<center>
+<table width='738' border='0' cellspacing='0' cellpadding='0'><tr><td colspan='2'><table width='100%' border='0' cellspacing='0' cellpadding='0'><tr> <td width='260' height='60'><TABLE WIDTH=260 HEIGHT=60><TR><TD WIDTH='260'><B><I><FONT CLASS='LLL' COLOR=BLUE>±M¥´­¸¾÷  </FONT></I></B></TD></TR><TR><TD ALIGN='CENTER' WIDTH='260'><B><FONT COLOR=RED CLASS='L'>¼v­µµø°T²á¤Ñ«Ç</FONT></B></TD></TR></TABLE></td><td width='72%' valign='bottom'><table width='100%' border='0' cellpadding='0' cellspacing='0'><tr><td align=RIGHT VALIGN='TOP' CLASS='S'><A href='http://www.ticrf.org.tw/' target='_blank'><FONT COLOR=RED>¨Ì·Óºô¯¸¤À¯Å³W©w¥¼º¡¤Q¤K·³ªÌ½Ğ¤ÅÂsÄı</FONT></A><TABLE WIDTH=100% CLASS=S><TR><TD ALIGN=CENTER>24¤p®É«ÈªA±M½u : 02-27654066 ¶Ç¯u : 02-27659081</TD><TD><A href='./index.phtml?PUT=up_pay&FID=632054'> <img src='images/visa.gif' width='37' height='25' border=0></A> <A href='./index.phtml?PUT=up_pay&FID=632054'><img src='images/mastercard.gif' width='40' height='26' border=0></A></TD></TR></TABLE></td></tr><tr><td><div align='right' class='body'><FONT CLASS=M><A href=./index.phtml?PUT=mailbox&FID=632054>»P§Ú­ÌÁpµ¸</A> | <FONT CLASS=S><A href=./index.phtml?PUT=up_reg&FID=632054 target=_top>¥[¤J·|­û</A> | </td></tr></table></td></tr></table></td></tr></table><table width='738' border='0' cellspacing='0' cellpadding='0'><tr><td colspan='2'><div class='body'><img src='images/host_line_02.gif' width='740' height='3'></div></td></tr><tr><td colspan='2'><div align='center'></div></td></tr><tr><td colspan='2'><img src='images/index_04.gif' width='740' height='9'></td></tr></table><table width='740' border='0' cellspacing='0' cellpadding='0'><TR><TD COLSPAN=2><table width='100%' border='0' cellpadding='0' cellspacing='0' background='images/botton_02.gif' height=26>
+<tr>
+<td width='21'><div align='left'><img src='images/botton_01.gif' width='21' height='26'></div></td>
+<td><div align='center'><a href='./index.phtml?FID=632054' class='L'>­º­¶</a></div></td>
+
+
+<td width='23'><img src='images/botton_03.gif' width='21' height='26'></td>
+<td class='large01'>
+<div align='center'>
+<a href='./index.phtml?PUT=aweb_logon&FID=632054' class='L'><FONT COLOR='RED'>$ÁÈ¿úÁp·ù$</FONT></A>
+<!--a href='?PUT=a_show&TYPE=TEL&FID=632054' class='L'>¹q¸Ü²á¤Ñ-->
+</div></td>
+
+
+<!--td width='23'><img src='images/botton_03.gif' width='21' height='26'></td>
+<td class='large01' align='center'>
+</td-->
+
+
+<!--td width='23'><img src='images/botton_03.gif' width='23' height='26'></td>
+<td ALIGN=CENTER class='L'>
+<a href='./index.phtml?PUT=avshow&FID=632054'>
+µø°T²á¤Ñ«Ç
+</A>
+</td-->
+<td width='23'><img src='images/botton_03.gif' width='23' height='26'></td><td ALIGN=CENTER class='M'><a href='./index.phtml?PUT=A_SORT&FID=632054&T=M'>ÀW¹D±Æ¦æº]</A></td><!--td width='23'><img src='images/botton_03.gif' width='23' height='26'></td>
+<td ALIGN=CENTER class='L'>
+<a href='./index.phtml?PUT=a_logon&s=1&FID=632054'>¥D«ù¤H±M°Ï
+</A>
+</td-->
+<td width='26'><div align='right'><img src='images/botton_04.gif' width='26' height='26'></div></td>
+</tr>
+</table>
+
+<table border='0' cellspacing='0' cellpadding='0' ALIGN='CENTER' bgcolor='#FFFFFF' width='750'><tr><td><div style="margin:0 auto;width: 750px;border:1px solid #7f1184; font-family:Helvetica, Arial, ·L³n¥¿¶ÂÅé ,sans-serif;font-size: 12px; background-color: #ffffff">
+ <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+          <td align="left" valign="top">
+            <table border="0" cellpadding="0" cellspacing="0" height="22">
+              <tr>
+                <td bgcolor="#7f1184"><b style="color:#FFFFFF;font-size:15px"> ®¥³ß¤T¤ë¥÷®ø¶O±Æ¦æ«e¤Q¦W·|­û Àò±o§K¶OÂI¼Æ~</b></td>
+                <td width="15">
+                  <div style="border-style: solid;border-width: 22px 15px 0 0;border-color: #7e1184 transparent transparent transparent;"></div>
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td align="left">
+            <b style="color:#111111;font-size:14px"><em>No.1</em></b>&nbsp;<span style="color:#8c4600;font-size:12px">LV75699**</span>
+            <b style="color:#7f1184;font-size:14px"> -ÃØÂI<em>10,000</em> ÂI</b>
+          </td>
+          <td align="center" width="25%">
+            <b style="color:#111111;font-size:14px"><em>No.2</em></b>&nbsp;<span style="color:#8c4600;font-size:12px">LV28160**</span>
+            <b style="color:#7f1184;font-size:14px"> -ÃØÂI<em>9,000</em> ÂI</b>
+          </td>
+        </tr>
+      </table>
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+          <td align="center" width="25%">
+            <b style="color:#111111;font-size:13px"><em>No.3</em></b>&nbsp;<span style="color:#8c4600;font-size:11px">LV72247**</span>
+            <b style="color:#7f1184;font-size:12px"> -ÃØÂI<em>8,000</em> ÂI</b>
+          </td>
+          <td align="center" width="25%">
+            <b style="color:#111111;font-size:13px"><em>No.4</em></b>&nbsp;<span style="color:#8c4600;font-size:11px">LV52777**</span>
+            <b style="color:#7f1184;font-size:12px"> -ÃØÂI<em>7,000</em> ÂI</b>
+          </td>
+          <td align="center" width="25%">
+            <b style="color:#111111;font-size:13px"><em>No.5</em></b>&nbsp;<span style="color:#8c4600;font-size:11px">LV65749**</span>
+            <b style="color:#7f1184;font-size:12px"> -ÃØÂI<em>6,000</em> ÂI</b>
+          </td>
+          <td align="center">
+            <b style="color:#111111;font-size:13px"><em>No.6</em></b>&nbsp;<span style="color:#8c4600;font-size:11px">LV68540**</span>
+            <b style="color:#7f1184;font-size:12px"> -ÃØÂI<em>5,000</em> ÂI</b>
+          </td>
+        </tr>
+      </table>
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+          <td align="center" width="25%">
+            <b style="color:#111111;font-size:13px"><em>No.7</em></b>&nbsp;<span style="color:#8c4600;font-size:11px">LV37566**</span>
+            <b style="color:#7f1184;font-size:12px"> -ÃØÂI<em>4,000</em> ÂI</b>
+          </td>
+          <td align="center" width="25%">
+            <b style="color:#111111;font-size:13px"><em>No.8</em></b>&nbsp;<span style="color:#8c4600;font-size:11px">LV71975**</span>
+            <b style="color:#7f1184;font-size:12px"> -ÃØÂI<em>3,000</em> ÂI</b>
+          </td>
+          <td align="center" width="25%">
+            <b style="color:#111111;font-size:13px"><em>No.9</em></b>&nbsp;<span style="color:#8c4600;font-size:11px">LV25850**</span>
+            <b style="color:#7f1184;font-size:12px"> -ÃØÂI<em>2,000</em> ÂI</b>
+          </td>
+          <td align="center" width="25%">
+            <b style="color:#111111;font-size:13px"><em>No.10</em></b>&nbsp;<span style="color:#8c4600;font-size:11px">LV16730**</span>
+            <b style="color:#7f1184;font-size:12px"> -ÃØÂI<em>1,000</em> ÂI</b>
+          </td>
+        </tr>
+      </table>
+    </div>
+</td></tr></table><IMG SRC='images/18r.png' width='750' HEIGHT='75'><table border='0' cellpadding='0' cellspacing='3' CLASS='M'><tr><td>&nbsp;&nbsp;ÀW¹D«ü¼Æ&nbsp;&nbsp;</TD><TD CLASS='M'>&nbsp;&nbsp;<A HREF='./index.phtml?PUT=A_SORT&SORT=R41&FID=632054'><img src='/images/slevel1.gif' width='17' height='16' BORDER='0' TITLE='¸`¥Øµ¥¯Å¬°­­¨î¯Å¾A¦X¦~ÄÖº¡21·³¤§¦¨¤H¶i¤J'></A></TD><TD>&nbsp;<A HREF='./index.phtml?PUT=A_SORT&SORT=R41&FID=632054'>­­¨î¯Å(¤õ»¶)</A></TD><TD>&nbsp;&nbsp;<A HREF='./index.phtml?PUT=A_SORT&SORT=R42&FID=632054'><img src='/images/slevel2.gif' width='17' height='16' BORDER='0' TITLE='¸`¥Øµ¥¯Å¬°»²¾É¯Å¾A¦X¦~ÄÖº¡18·³¤§¦¨¤H¶i¤J'></A></TD><TD>&nbsp;<A HREF='./index.phtml?PUT=A_SORT&SORT=R42&FID=632054'>»²¾É¯Å(ÀÇ¬N)</A></TD><TD>&nbsp;&nbsp;<A HREF='./index.phtml?PUT=A_SORT&SORT=R40&FID=632054'><img src='/images/slevel0.gif' width='17' height='16' BORDER='0' TITLE='¸`¥Øµ¥¯Å¬°´¶³q¯Å¾A¦X©Ò¦³¦~ÄÖ¼h¶i¤J'></A></TD><TD>&nbsp;<A HREF='./index.phtml?PUT=A_SORT&SORT=R40&FID=632054'>´¶³q¯Å(²M¯Â)</A></TD><TD><table width='100%' height='20' border='0' cellpadding='0' cellspacing='0' CLASS='S'><tr><td valign='bottom'>&nbsp;&nbsp;±Æ§Ç&nbsp;&nbsp;<strong><a href='./index.phtml?PUT=A_SORT&SORT=N&ON=&FID=632054'><font color='#CC3366'>·~ÁZ±Æ¦æ</font></a></strong>¢x <strong><a href='./index.phtml?PUT=A_SORT&SORT=R6&FID=632054'><font color='#CC3366'>¤@¹ï¦h¦¬¶O±Æ§Ç</font></a></strong>¢x <strong><a href='./index.phtml?PUT=A_SORT&SORT=R7&FID=632054'><font color='#CC3366'>¤@¹ï¤@¦¬¶O±Æ§Ç</font></a></strong></font></div></td></tr></table></td></tr></table></TD></TR><tr><td width='160' valign='top' bgcolor='ECECEC'>Hi!<CENTER><TABLE WIDTH=100% BGCOLOR='FFFFFF' border='1' cellpadding='1' cellspacing='0' style='border-collapse: collapse' bordercolor='#CC6699'><!--table width='100%' border='0' cellspacing='0' cellpadding='0'-->
+<SCRIPT language='JavaScript'>
+function check_uid_logon(FORMNAME){
+  var error;
+  if (FORMNAME.USERID.value==''){
+    alert('½Ğ¶ñ¼g¥¿½T±b¸¹!!');
+    FORMNAME.USERID.focus();
+    return false;
+  }
+  if (FORMNAME.USER_PASSWORD.value==''){
+    alert('½Ğ¶ñ¼g¥¿½T±K½X!!');
+    FORMNAME.USER_PASSWORD.focus();
+    return false;
+  }
+  if (FORMNAME.CHIMG.value==''){
+    alert('½Ğ¶ñ¼g¥¿½T[¹Ï¤ùÅçÃÒ]¹Ï¤ù¤W¬°5½X¦r!!');
+    FORMNAME.CHIMG.focus();
+    return false;
+  }
+
+  if (FORMNAME.CHIMG.value.length!=5){
+    alert('±z¿é¤Jªº¹Ï¤ùÅçÃÒ¦@'+FORMNAME.CHIMG.value.length+'½X~¹Ï¤ù¤W¬°5½X¦r!!');
+    FORMNAME.CHIMG.focus();
+    return false;
+  }
+
+  return true;
+}
+</SCRIPT>
+<TR BGCOLOR='EEEEFF' CLASS='M'><TD BGCOLOR='FFFFFF'><FONT CLASS=M><TR BGCOLOR='EEEEFF' CLASS='M'><TD ALIGN='CENTER' BGCOLOR='CC6699'><FONT COLOR=FFFFFF>·|­û±M°Ï</FONT></TD></TR><form method='POST' action='./index.phtml?MID=' NAME=FORM_LOGON onSubmit='return check_uid_logon(FORM_LOGON);'><input type='hidden' name='MID' value=''><input type='hidden' name='PUT' value='up_logon'><TR><TD BGCOLOR=FFFFFF ALIGN=CENTER><table width='99%' border='0' align='center' cellpadding='1' cellspacing='1' class='body'><tr><td>±b¸¹:</TD><TD><input name='USERID' type='text' size='10' VALUE=''></td></tr><tr><td>±K½X:</TD><TD><input name='USER_PASSWORD' type='PASSWORD' size='10' VALUE=''></td></tr><tr><td COLSPAN='2'><font color='#990000'>½Ğ¿é¤J¹Ï¤ùÅçÃÒ½X</font></TD></TR><TR><TD COLSPAN='2' ALIGN='CENTER'><INPUT name='CHIMG' type='TEXT' size='7' maxlength='6'></TD></TR><TR><TD COLSPAN='2' ALIGN='CENTER'><IMG SRC='chk.phtml?FID=632054' border='0'></font></td></tr><tr><td width='100%' ALIGN=CENTER COLSPAN='2'><input type='submit' name='Submit' value='·|­ûµn¤J'></td></tr><tr><td width='100%' COLSPAN='2'><FONT CLASS=L><A href='./index.phtml?PUT=up_pay&FID=632054'><img src='/images/icon_01.gif' width='15' height='15' align='absmiddle' BORDER=0> ÁÊ¶RÂI¼Æ</A></td></tr><tr><td width='100%' COLSPAN='2'><FONT CLASS=L><A href='./index.phtml?PUT=up_reg&FID=632054'><img src='/images/icon_01.gif' width='15' height='15' align='absmiddle' border=0> ¥[¤J·|­û</A></td></tr><tr><td COLSPAN='2'><A href='./index.phtml?PUT=up_password&FID=632054'><FONT CLASS=L><img src='/images/icon_02.gif' width='15' height='14' align='absmiddle' border=0> §Ñ°O±K½X</A></td></tr></FORM></table>
+</td></tr></TABLE>
+
+
+
+<FONT CLASS='SSS'><BR></FONT><TABLE WIDTH=99% BGCOLOR='FFFFFF' border='1' cellpadding='1' cellspacing='0' style='border-collapse: collapse' bordercolor='#CC6699' ALIGN=CENTER><TR BGCOLOR='EEEEFF' CLASS='M'><TD ALIGN='CENTER' BGCOLOR='CC6699'><FONT COLOR=FFFFFF>
+·s¤â¤W¸ô
+</FONT>
+</td></tr><TR><TD>
+
+
+
+<table width='90%' border='0' align='center' cellpadding='1' cellspacing='1' class='body'>
+<tr><td><img src='/images/icon_04.gif' width='9' height='9'></td>
+<td>
+<span class='link_menu'><A href=./?PUT=faq&FID=632054>±`¨£°İÃD</td></tr><tr><td><img src='/images/icon_04.gif' width='9' height='9'></td><td><span class='link_menu'><A href=./?PUT=pay_doc1&FID=632054>¥I´Ú¤è¦¡ <br></td></td></tr><tr><td><img src='/images/icon_04.gif' width='9' height='9'></td><td><span class='link_menu'><A href=./?PUT=avshow_doc3&FID=632054>¨Ï¥Î±ø´Ú <br></td>
+<td>&nbsp;</td>
+<td>&nbsp;</td></tr></table>
+
+</td></tr></table>
+
+
+<FONT CLASS='SSS'><BR></FONT><CENTER><TABLE WIDTH=100% BGCOLOR='FFFFFF' border='1' cellpadding='1' cellspacing='0' style='border-collapse: collapse' bordercolor='#CC6699'><TR BGCOLOR='EEEEFF' CLASS='M'><TD ALIGN='CENTER' BGCOLOR='CC6699'><FONT COLOR=FFFFFF>ºô¯¸ÁÈ¿úÁp·ù</FONT></TD></TR><TR><TD BGCOLOR=FFFFFF ALIGN=CENTER><FONT CLASS='SSS'><BR><BR></FONT><A href='./?PUT=aweb_reg&FID=632054'><IMG SRC='/images/icon-1-reg.gif' BORDER=0 TITLE=''></A><FONT CLASS='SSS'><BR><BR></FONT><CENTER><FONT class='L'><A href='./?PUT=aweb_logon&FID=632054'><IMG SRC='/images/icon-1-logon.gif' BORDER=0 TITLE=''></A></FONT><FONT CLASS='SSS'><BR><BR></FONT><FONT CLASS='SSS'><BR><BR></FONT><FONT CLASS=L><A href='./?PUT=aweb_password&FID=632054'>¬d¸ßÁp·ù±K½X</A></FONT><FONT CLASS='SSS'><BR><BR></FONT></TD></TR></TABLE><FONT CLASS='SSS'><BR></FONT><FONT CLASS='SSS'><BR></FONT><CENTER><TABLE WIDTH=99% BGCOLOR='FFFFFF' border='1' cellpadding='1' cellspacing='0' style='border-collapse: collapse' bordercolor='#CC6699' ALIGN=CENTER><TR BGCOLOR='EEEEFF' CLASS='S'><TD ALIGN='CENTER' BGCOLOR='CC6699' CLASS=S><FONT COLOR=FFFFFF>ºô¯¸¤½§i</FONT>
+</TD></TR><TR><TD BGCOLOR=FFFFFF CLASS=S>
+
+
+<LI>
+­Y¦³¥D«ù¤H´£¨Ñ§O¯¸ºô§}©Ô±z¨ì§Oºô¯¸
+¡A
+½Ğ±N²á¤Ñ°O¿ı´£¨Ñ§Ú­Ì
+¡A¸g¬dÄİ¹êºô¯¸·|§K¶OÃØ°e5,000ÂI¡C
+( 2006/01/16 )
+<BR>
+<BR>
+<LI>
+­Y¦³¥D«ù¤H­n¨D·|­ûª½±µ¶×¿úµ¹¦o¡A½Ğ¤Å¶×¿ú
+¡A½Ğ·|­û°O¿ı²á¤Ñ¤º®e©Î¯d¤U¥D«ù¤H»È¦æ±b¸¹¡A
+³qª¾¥»ºô¯¸¡A¸g¬dÃÒÄİ¹ê¡A¥»ºô¯¸±N§K¶OÃØ°e2,000ÂI¡C
+( 2006/01/16 )
+<BR>
+<BR>
+
+<!--FONT COLOR='RED'>ªñ¤é¥»ºô¯¸µo²{¦³³¡¥÷·|­û¨Ï¥Î°°¥d©Î¥L¤H«H¥Î¥d
+¡A«H¥Î¥d«ù¥d¤H¦pªG§_»{¦¹µ§¥æ©ö
+¡A¥»¤½¥q±N·|­û±b¸¹¸ê®Æ¤Î¤Wºô°O¿ı(¹q¸Ü¡B©m¦W¡B¨­¥÷ÃÒ¸¹¡B¦a§}¡B¤WºôIP¤Î®É¶¡)¥æ¥ÑÄµ¬F¸p¦D¨Æ§½°»¤E¶¤°»¿ì
+¡A¥Ñ©ó½u¤W«H¥Î¥d¥æ©ö¤Î²á¤Ñ«Ç¨Ï¥Î§¡¦³°O¿ı¨Ï¥ÎªÌIP¤Î¤Wºô®É¶¡
+¡A½Ğºô¤Í¤Å¥H¨­¸Õªk!!
+<LI>
+¨Ã©óªñ¤é¤½§G§_»{¥æ©öªº·|­û¸ê®Æ¤Î¤Wºô°O¿ı¡A
+¥H§K¦³¨ä¥Lºô¤Í¨üÄF!!
+</FONT>
+<HR SIZE=1 WIDTH='100%' COLOR='999999'-->
+
+<!--FONT COLOR='GREEN'>¥Ñ©óªñ¤éµo²{¦³¤£¨v¥D«ù¤H§Q¥ÎÃØÂI´ÛÄFºô¤Í<BR>¥»¤½¥q¬°«O»Ùºô¤ÍÅv§Q¨M©w°±¤î½u¤W°eÂ§¥\¯à!!</FONT>
+¡I( 2005/06/24 )
+<BR>
+<HR SIZE=1 WIDTH='100%' COLOR='999999'-->
+<LI>
+³Ìªñµo²{¦³³¡¤À¥D«ù¤H¤W¶Ç¤£¶®ªº·Ó¤ù¡A
+¦pµo²{¦³¤£¶®¡BµTÁ¶¡B¤£¹êªº¹Ï¤ù©Î¤å¦r¤@«ß§R°£¡A
+ÄY­«ªÌ¥»ºô¯¸±N°±¤î¥D«ù¤H±b¸¹¡A
+½Ğ¥D«ù¤H¦Û«ß¿í¦u<!-- <A href='/utchat/?PUT=a_reg&s=1&FID=632054'> -->µø°T²á¤Ñ«Ç¨Ï¥Î±ø´Ú</A>
+¡I
+</TD></TR></TABLE>
+
+
+
+<!--img src='/img/lock.gif' width='33' height='54' hspace='15' vspace='8'-->
+
+
+<BR><CENTER>
+
+</td><td width='580' bgcolor='FFFFFF' VALIGN=TOP><table width="97%" border="0" cellpadding="0" cellspacing="0" height="100%" ALIGN=CENTER VALIGN=TOP>
+<tr height="100%"><td valign="top" bgcolor="#FFFFFF" height="100%">
+<table width='100%' border='0' cellpadding='0' cellspacing='0'><tr><td><table width='100%' border='0' cellpadding='0' cellspacing='0' background='images-utchat/host_02.gif'><tr><td width='15%'><img src='images-utchat/06-2.gif' width='116' height='29'></td><td width='82%' class='body'><img src='images-utchat/icon_07.gif' width='10' height='11' align='absmiddle'> <span class='large01'><font color='#FF6600'><B>·|­û°eÂ§µ¹¥D«ù¤H</B></font></span> </td><td width='3%'><img src='images-utchat/host_03.gif' width='18' height='29'></td></tr></table></td></tr></table><SCRIPT>alert('½Ğ¿é¤J¥¿½T±b¸¹±K½X~~');;</SCRIPT>Hi!<CENTER><TABLE WIDTH=100% BGCOLOR='FFFFFF' border='1' cellpadding='1' cellspacing='0' style='border-collapse: collapse' bordercolor='#CC6699'><SCRIPT language='JavaScript'>
+function check_uid_logon(FORMNAME){
+  var error;
+  if (FORMNAME.USERID.value==''){
+    alert('½Ğ¶ñ¼g¥¿½T±b¸¹!!');
+    FORMNAME.USERID.focus();
+    return false;
+  }
+  if (FORMNAME.USER_PASSWORD.value==''){
+    alert('½Ğ¶ñ¼g¥¿½T±K½X!!');
+    FORMNAME.USER_PASSWORD.focus();
+    return false;
+  }
+  if (FORMNAME.CHIMG.value==''){
+    alert('½Ğ¶ñ¼g¥¿½T[¹Ï¤ùÅçÃÒ]¹Ï¤ù¤W¬°5½X¼Æ¦r!!');
+    FORMNAME.CHIMG.focus();
+    return false;
+  }
+
+  if (FORMNAME.CHIMG.value.length!=5){
+    alert('±z¿é¤Jªº¹Ï¤ùÅçÃÒ¦@'+FORMNAME.CHIMG.value.length+'½X~¹Ï¤ù¤W¬°5½X¼Æ¦r!!');
+    FORMNAME.CHIMG.focus();
+    return false;
+  }
+
+  return true;
+}
+</SCRIPT>
+<form method='POST' action='./index.phtml?FID=632054' NAME='FORM_LOGON1' ID='FORM_LOGON1' onSubmit='return check_uid_logon(FORM_LOGON1);'><input type='hidden' name='FID' value='632054'><input type='hidden' name='PUT' value='up_logon'><TR><TD BGCOLOR=FFFFFF ALIGN=CENTER><table width='250' border='0' align='center' cellpadding='1' cellspacing='1' class='body'><tr><td ALIGN='RIGHT'>±b¸¹:</TD><TD><input name='USERID' type='text' size='10' VALUE=''></td></tr><tr><td ALIGN='RIGHT'>±K½X:</TD><TD><input name='USER_PASSWORD' type='PASSWORD' size='10' VALUE=''></td></tr><tr><td ALIGN='RIGHT'><font color='#990000'>½Ğ¿é¤J¹Ï¤ùÅçÃÒ½X</font></TD><TD><INPUT name='CHIMG' type='TEXT' size='5' maxlength='6'><IMG SRC='chk.phtml?FID=632054' border='0' WIDTH='55'></font></td></tr><tr><td width='100%' ALIGN=CENTER COLSPAN='2'><input type='submit' name='Submit' value='·|­ûµn¤J'></td></tr><tr><td width='100%' COLSPAN='2' ALIGN=CENTER><FONT CLASS=L><A href='./?PUT=up_pay&FID=632054'><img src='/images/icon_01.gif' width='15' height='15' align='absmiddle' BORDER=0> ÁÊ¶RÂI¼Æ</A></td></tr><tr><td width='100%' COLSPAN='2' ALIGN=CENTER><FONT CLASS=L><A href='./?PUT=up_reg&FID=632054'><img src='/images/icon_01.gif' width='15' height='15' align='absmiddle' border=0> ¥[¤J·|­û</A></td></tr><tr><td COLSPAN='2' ALIGN=CENTER><A href='./?PUT=up_password&FID=632054'><FONT CLASS=L><img src='/images/icon_02.gif' width='15' height='14' align='absmiddle' border=0> §Ñ°O±K½X</A></td></tr></FORM></table>
+</td></tr></TABLE>
+</td></tr></table>
+</td></tr><tr><td colspan='2'><img src='images/index_18.gif' width='740' height='16'></td></tr></table><FONT CLASS='SSS'><BR></FONT><FONT CLASS=M><A href=/utchat/?PUT=mailbox&FID=632054>»P§Ú­ÌÁpµ¸</A> | <FONT CLASS=S><A href=/utchat/?PUT=up_reg&FID=632054>¥[¤J·|­û</A> | <a href='/utchat/?PUT=aweb_reg&FID=632054' class='L' target=_black><FONT COLOR='RED'>$ÁÈ¿úÁp·ù$</FONT></A></div><FONT CLASS='SSS'><BR></FONT><FONT CLASS='SSS'><BR></FONT><table width='738' border='0' cellspacing='0' cellpadding='0'><tr><td colspan='2' class='body'><div align='center'>ª©Åv©Ò¦³¡@<B><FONT COLOR='BLUE'>±M¥´­¸¾÷ </FONT><FONT COLOR='RED'>¼v­µµø°T²á¤Ñ«Ç</FONT></B>¡@¡@24HR «ÈªA±M½u <font color='#990000'>TEL:02-27654066 ¡@FAX:02-27659081</font> </div></td></tr></table></body></html><FONT CLASS='SSS'><BR></FONT><table width=100% border=1 align=center cellpadding=2 cellspacing=0 bordercolorlight=#FFFFFF bgcolor=#FFFFFF style=font-size:x-small; background-color:#E8E8E8; border:1px solid #CCCCCC>
+<th colspan=10 bgcolor=#CCCCCC><h2 style=font-size:13px;>¥´­¸¾÷</h2></th>		
+<tr>	<td><a href=http://34c.utchat888.com>¥´­¸¾÷±M¥Î</a></td>	
+	<td><a href=http://080.chat0204.me>½u¤W¥´­¸¾÷±Mºô</a></td>	
+	<td><a href=http://080cc.chat0204.info>¦¨¤H¥´­¸´X±M¥Îºô</a></td>	
+	<td><a href=http://2010.chat0204.me>¥´­¸±M¥Îºô2</a></td>	
+	<td><a href=http://45av.utchat888.com>¦¨¤H¼v¤ù¥´­¸¾÷</a></td>	
+	<td><a href=http://0401.chat0204.me>¥´­¸´X±M¥Îºô2</a></td>	
+	<td><a href=http://34c.chat0204.info>¥´­¸¾÷¦¨¤Ha¤ù½u¤WÆ[½à</a></td>	
+	<td><a href=http://4h.chat0204.net>ºô¸ô§K¶O¦¨¤H¼v¤ù¥´­¸¾÷</a></td>	
+	<td><a href=http://0401a.chat0204.net>¥´­¸¾÷ºô</a></td>	
+	<td><a href=http://38mm.jolin888.com>¬İa¤ù¥´­¸¾÷¼v¤ù</a></td>	</tr>
+<tr>	<td><a href=http://www.chat0204.net>x¥´­¸¾÷±M¥Îºô</a></td>	
+	<td><a href=http://080.utchat888.com>¥´­¸´X±M¥Îºô</a></td>	
+	<td><a href=http://1799.utchat888.com>¦¨¤H¥´­¸¾÷</a></td>	
+	<td><a href=http://18tw.chat0204.net>ºô¸ô§K¶O¦¨¤H¼v¤ù¥´­¸¾÷</a></td>	
+	<td><a href=http://candy.momo530.com>¥´­¸¾÷±M¥Î©¹</a></td>	
+	<td><a href=http://0401a.chat0401.info>¥´­¸¾÷ºô</a></td>	
+	<td><a href=http://080.chat0401.info>¥´­¸´Xºô</a></td>	
+	<td><a href=http://080ut.utchat888.com>¥´­¸¾÷±M°Ï</a></td>	
+	<td><a href=http://080.chat0204.net>¦¨¤H¤ù¥´­¸¾÷±M¥Î</a></td>	
+	<td><a href=http://18sex.momo530.com>¥´­¸¾÷ºô</a></td>	</tr>
+</table>
+
+<table width=100% border=1 align=center cellpadding=2 cellspacing=0 bordercolorlight=#FFFFFF bgcolor=#FFFFFF style=font-size:x-small; background-color:#E8E8E8; border:1px solid #CCCCCC>
+<th colspan=10 bgcolor=#CCCCCC><h2 style=font-size:13px;>¦Û©ç</h2></th>		
+<tr>	<td><a href=http://1007.chat080.info>¥»¤g¦Û©ç¶K¹Ï</a></td>	
+	<td><a href=http://w2.meme-talk.com>¦Û©ç·Ó</a></td>	
+	<td><a href=http://cam.meme-talk.com>¦Û©ç·Ó¤ù</a></td>	
+	<td><a href=http://18gy.chat080.me>¯À¤H¦Û©ç</a></td>	
+	<td><a href=http://2010.chat0401.net>¦Û©ç·Ó¬y¥X</a></td>	
+	<td><a href=http://ww1.meme-chat.com>¦Û©ç¼v¤ù</a></td>	
+	<td><a href=http://www2.meme-chat.com>¦Û©ç¨«¥ú</a></td>	
+	<td><a href=http://2010.chat0401.net>©Ê·R¦Û©ç</a></td>	
+	<td><a href=http://3d.chat080.info>Âb·}¦è¬I¦Û©ç·Ó¤ù</a></td>	
+	<td><a href=http://080ut.chat080.com>°½©ç¦Û©ç</a></td>	</tr>
+<tr>	<td><a href=http://show2.meme888.com>±¡¦â¦Û©ç</a></td>	
+	<td><a href=http://love.meme-talk.com>¤H©d¦Û©ç</a></td>	
+	<td><a href=http://0509.chat080.info>¦Û©ç¨«¥ú¶K¹Ï</a></td>	
+	<td><a href=http://1007.chat0401.me>°µ·R¦Û©ç</a></td>	
+	<td><a href=http://cam1.meme888.com>¯À¤H¦Û©ç·Ó¤ù</a></td>	
+	<td><a href=http://2010.chat080.com>¥»¤g¦Û©ç¤Ñ°ó</a></td>	
+	<td><a href=http://www4.meme888.com>¼ô¤k¦Û©ç</a></td>	
+	<td><a href=http://3y3.chat0401.net>¦Û©ç°½©ç</a></td>	
+	<td><a href=http://cam.meme-talk.com>ÅSÂI¦Û©ç</a></td>	
+	<td><a href=http://www2.meme888.com>ªá¤ı¦Û©ç</a></td>	</tr>
+</table>
+<table width=100% border=1 align=center cellpadding=2 cellspacing=0 bordercolorlight=#FFFFFF bgcolor=#FFFFFF style=font-size:x-small; background-color:#E8E8E8; border:1px solid #CCCCCC>
+<th colspan=10 bgcolor=#CCCCCC><h2 style=font-size:13px;>²á¤Ñ</h2></th>
+  </tr>
+ <tr>	<td><a href=http://live.tw-0204.com>¦â±¡²á¤Ñ«Ç</a></td>	
+	<td><a href=http://live1.tw-080.com>µø°T²á¤Ñ«Ç</a></td>	
+	<td><a href=http://show1.tw-080.com>ut ²á¤Ñ«Ç </a></td>	
+	<td><a href=http://34c.chat080.net>¨k¦P§Ó²á¤Ñ«Ç </a></td>	
+	<td><a href=http://ww3.tw-080.com>§K¶O²á¤Ñ¥æ¤Íºô</a></td>	
+	<td><a href=http://173liveshow.chat080.net>¥æ¤Í²á¤Ñºô</a></td>	
+	<td><a href=http://007sex.chat1007.net>ut²á¤ÑÁp·ù</a></td>	
+	<td><a href=http://cave.chat1007.me>¨§¨§²á²á¤Ñ«Ç</a></td>	
+	<td><a href=http://aid.chat1007.me>§K¶Oµø°T²á¤Ñ</a></td>	
+	<td><a href=http://www3.tw-0204.com>¨§¨§²á¤Ñ«Ç</a></td>	</tr>
+<tr>	<td><a href=http://w3.chat543.com>´M¹Ú²á¤Ñ</a></td>	
+	<td><a href=http://45av.chat104.info>¤k¦P§Ó²á¤Ñ</a></td>	
+	<td><a href=http://ww.chat543.com>ut ²á¤Ñ¦Ü</a></td>	
+	<td><a href=http://rice.chat1007.me>080²á¤Ñ«Ç </a></td>	
+	<td><a href=http://3d.chat1007.info>¦â±¡²á¤Ñ</a></td>	
+	<td><a href=http://173show.chat080.net>ut²á¤Ñºô</a></td>	
+	<td><a href=http://ww.chat543.com>¨§¨§²á¤Ñºô</a></td>	
+	<td><a href=http://1007.chat1007.info>ut²á¤Ñºô</a></td>	
+	<td><a href=http://chat1007.net>ut ²á¤Ñ</a></td>	
+	<td><a href=http://18.chat080.net>ut ²á¤Ñ«Ç </a></td>	</tr>
+</table>
+<table width=100% border=1 align=center cellpadding=2 cellspacing=0 bordercolorlight=#FFFFFF bgcolor=#FFFFFF style=font-size:x-small; background-color:#E8E8E8; border:1px solid #CCCCCC>
+<th colspan=10 bgcolor=#CCCCCC><h2 style=font-size:13px;>¶K¹Ï</h2></th>
+  </tr>
+ <tr>	<td><a href=http://0951.chat173.net>¼v­µµø°T²á¤Ñ«Ç</a></td>	
+	<td><a href=http://3y3.chat173.net>¬x·İ¦â±¡¶K¹Ï°Ï</a></td>	
+	<td><a href=http://24h.chat173.net>¦¨¤H¶K¹Ï</a></td>	
+	<td><a href=http://0204.chat104.net>©Ê·R¶K¹Ï</a></td>	
+	<td><a href=http://13060.chat173.net>ºµ¿ß¶K¹Ï°Ï°Ï</a></td>	
+	<td><a href=http://show3.avshow176.com>¦¨¤H²á¤Ñ«Ç</a></td>	
+	<td><a href=http://18gy.chat104.net>1069 ©İ®pºô¶K¹Ï°Ï</a></td>	
+	<td><a href=http://18gy.chat173.net>ºµ¿ß¶K¹Ï</a></td>	
+	<td><a href=http://ww2.avshowlive.com>¦¨¤H¶K¹Ï°Ï</a></td>	
+	<td><a href=http://168.chat104.me>¥u¦³¶K¹Ï°Ï</a></td>	</tr>
+<tr>	<td><a href=http://18jack.chat104.me>007 ¶K¹Ï°Ï ¦Ê¤À¦Ê¶K¹Ï°Ï</a></td>	
+	<td><a href=http://w1.avshowlive.com>¦Ê¤À¦Ê¶K¹Ï°Ï</a></td>	
+	<td><a href=http://live3.avshow520.com>±¡¦â¶K¹Ï</a></td>	
+	<td><a href=http://0204.chat173.info>ºµ¿ß¶K¹Ï°Ï¦Cªí</a></td>	
+	<td><a href=http://173show.chat173.info>±¡¦â¶K¹Ï</a></td>	
+	<td><a href=http://3d.chat173.info>¤@¸­±¡¶K¹Ï¤ù°Ï</a></td>	
+	<td><a href=http://chat173.me>¶K¹Ï°Ï</a></td>	
+	<td><a href=http://w.avshow520.com>666 ¶K¹Ï°Ï</a></td>	
+	<td><a href=http://cam2.avshow520.com>ºµ¿ß¶K¹Ï°Ï</a></td>	
+	<td><a href=http://080.chat173.net>¦Ê¤À¦Ê¶K¹Ï°Ï</a></td>	</tr>
+</table>
+<table width=100% border=1 align=center cellpadding=2 cellspacing=0 bordercolorlight=#FFFFFF bgcolor=#FFFFFF style=font-size:x-small; background-color:#E8E8E8; border:1px solid #CCCCCC>
+<th colspan=10 bgcolor=#CCCCCC><h2 style=font-size:13px;>¦â±¡</h2></th>
+  </tr>
+ <tr>	<td><a href=http://roomadult.info>¦â±¡¶K¤ù</a></td>	
+	<td><a href=http://live.showlive173.com>¦â±¡¤å¾Ç</a></td>	
+	<td><a href=http://18gy.chat919.com>¦â±¡¹Ï¤ù</a></td>	
+	<td><a href=http://080.roomadult.info>¬x·İ¦â±¡¼v¤ù</a></td>	
+	<td><a href=http://18jack.chat5320.info>¬x·İ¦â±¡ºô¯¸§K¶O</a></td>	
+	<td><a href=http://173show.roomadult.info>¦â±¡¤ù</a></td>	
+	<td><a href=http://176.chat5320.com>¬x·İ¦â±¡½×¾Â</a></td>	
+	<td><a href=http://2010.chat919.info>¬x·İ¦â±¡ºô¯¸¹Ï¤ù</a></td>	
+	<td><a href=http://0951.chat5320.com>¬x·İ¦â±¡¼v¤ù§K¶O</a></td>	
+	<td><a href=http://www2.livechat173.com>¦â±¡¤ù§K¶OÆ[½à</a></td>	</tr>
+<tr>	<td><a href=http://w3.avlive173.com>¦â±¡¨g¤p»¡</a></td>	
