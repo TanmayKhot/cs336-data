@@ -4,6 +4,7 @@ from typing import Any
 
 from cs336_data.html_to_text import extract_text_from_html_bytes
 from cs336_data.language_identification import identify_language
+from cs336_data.mask_pii import mask_emails, mask_phone_numbers, mask_ips
 
 def run_extract_text_from_html_bytes(html_bytes: bytes) -> str | None:
     return extract_text_from_html_bytes(html_bytes)
@@ -12,17 +13,21 @@ def run_extract_text_from_html_bytes(html_bytes: bytes) -> str | None:
 
 def run_identify_language(text: str) -> tuple[Any, float]:
     return identify_language(text)
+    raise NotImplementedError
 
 
 def run_mask_emails(text: str) -> tuple[str, int]:
+    return mask_emails(text)
     raise NotImplementedError
 
 
 def run_mask_phone_numbers(text: str) -> tuple[str, int]:
+    return mask_phone_numbers(text)
     raise NotImplementedError
 
 
 def run_mask_ips(text: str) -> tuple[str, int]:
+    return mask_ips(text)
     raise NotImplementedError
 
 
