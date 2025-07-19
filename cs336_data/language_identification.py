@@ -1,5 +1,5 @@
 from fasttext import load_model
-from html_to_text import read_warc_file, extract_text_from_html_bytes
+from cs336_data.html_to_text import read_warc_file, extract_text_from_html_bytes
 
 model = load_model('/home/tanmay/Desktop/python-projects/stanford_course/lid.176.bin')
 

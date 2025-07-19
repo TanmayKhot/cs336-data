@@ -1,6 +1,6 @@
 import re
-from html_to_text import read_warc_file, extract_text_from_html_bytes
-from language_identification import identify_language
+from cs336_data.html_to_text import read_warc_file, extract_text_from_html_bytes
+from cs336_data.language_identification import identify_language
 
 def mask_emails(text: str) -> tuple[str, int]:
     email_pattern = r'[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}'
@@ -33,6 +33,7 @@ def mask_ips(text: str) -> tuple[str, int]:
     res, counts = re.subn(ipv4_pattern, ipv4_replacement, text)
     return (res,counts)
 
+'''
 records = read_warc_file(limit=50)
 
 for record in records:
@@ -42,5 +43,6 @@ for record in records:
         res, np = mask_emails(res)
         res, nip = mask_ips(res)
         if ne + np + nip > 0:
-            print("Original text:\n", text, "\n\nPII Masked text\n", res)
+            #print("Original text:\n", text, "\n\nPII Masked text\n", res)
+'''
     
