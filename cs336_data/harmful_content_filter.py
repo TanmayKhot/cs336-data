@@ -1,16 +1,28 @@
 from fasttext import load_model
-from cs336_data.html_to_text import read_warc_file, extract_text_from_html_bytes
+from .html_to_text import read_warc_file, extract_text_from_html_bytes
 
 hatespeech_model = load_model('/home/tanmay/Desktop/python-projects/stanford_course/jigsaw_fasttext_bigrams_hatespeech_final.bin')
 nsfw_model = load_model('/home/tanmay/Desktop/python-projects/stanford_course/jigsaw_fasttext_bigrams_nsfw_final.bin')
 
 def classify_nsfw(text: str) -> tuple[str, float]:
+    '''
+    Returns (classification label, confidence score)
+    classification label:
+            'nsfw' for NSFW content
+            'non-nsfw' for Non NSFW content
+    '''
     text = text.replace('\n', ' ')
     res = nsfw_model.predict(text)
     res = ([res[0][0].removeprefix('__label__'), res[1][0]])
     return res
 
 def classify_toxic_speech(text: str) -> tuple[str, float]:
+    '''
+    Returns (classification label, confidence score)
+    classification label:
+            'toxic' for Toxic content
+            'non-toxic' for Non Toxic content
+    '''
     text = text.replace('\n', ' ')
     res = hatespeech_model.predict(text)
     res = ([res[0][0].removeprefix('__label__'), res[1][0]])

@@ -34,12 +34,13 @@ test_html = '''
 res = extract_text_from_html_bytes(encode_html(test_html, "utf-8"))
 
 # Reading contents from WARC file
-path = '/home/tanmay/Desktop/python-projects/stanford_course/CC-MAIN-20250417135010-20250417165010-00065.warc.gz'
+path_commonCrawl = '/home/tanmay/Desktop/python-projects/stanford_course/CC-MAIN-20250417135010-20250417165010-00065.warc.gz'
+path_wiki = '/home/tanmay/Desktop/python-projects/stanford_course/enwiki_10.warc.gz'
 
 # <urn:uuid:95395b72-f7ac-484b-80f0-9d4f5ac4d2b6> // First English webpage found in the WARC file
 target_id = '<urn:uuid:95395b72-f7ac-484b-80f0-9d4f5ac4d2b6>'
 
-def read_warc_file(path=path, target_id=None, limit=20):
+def read_warc_file(path=path_commonCrawl, target_id=None, limit=20):
     if target_id:
         for record in ArchiveIterator(open(path, 'rb')):
           if record.record_id == target_id:
@@ -57,4 +58,3 @@ def read_warc_file(path=path, target_id=None, limit=20):
             break
       return res
 
-res = read_warc_file()

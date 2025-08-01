@@ -1,14 +1,20 @@
 import re
-from cs336_data.html_to_text import read_warc_file, extract_text_from_html_bytes
-from cs336_data.language_identification import identify_language
+from .html_to_text import read_warc_file, extract_text_from_html_bytes
+from .language_identification import identify_language
 
 def mask_emails(text: str) -> tuple[str, int]:
+    '''
+    Returns (text with masked email IDs, counts of email IDs masked)
+    '''
     email_pattern = r'[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}'
     email_replacement = '|||EMAIL_ADDRESS|||'
     res, counts = re.subn(email_pattern, email_replacement, text)
     return (res, counts)
 
 def mask_phone_numbers(text: str) -> tuple[str, int]:
+    '''
+    Returns (text with masked Phone numberss, counts of Phone Numbers masked)
+    '''
     phone_patterns = (
         r'\+1\s+\d{3}-\d{3}-\d{4}|'
         r'\+1\s+\d{10}|'
@@ -25,6 +31,9 @@ def mask_phone_numbers(text: str) -> tuple[str, int]:
     return (res,counts)
 
 def mask_ips(text: str) -> tuple[str, int]:
+    '''
+    Returns (text with masked IPs, counts of IPs masked)
+    '''
     ipv4_pattern = r'\b(?:25[0-5]|2[0-4]\d|1\d\d|[1-9]?\d)\.' \
                 r'(?:25[0-5]|2[0-4]\d|1\d\d|[1-9]?\d)\.' \
                 r'(?:25[0-5]|2[0-4]\d|1\d\d|[1-9]?\d)\.' \

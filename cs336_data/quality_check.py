@@ -4,7 +4,11 @@ import nltk
 import re
 
 def gopher_quality_filter(text: str) -> bool:
-
+    '''
+    Returns a bool
+    If the text fails the gopher checks then function will return False
+    else True
+    '''
     # Number of words check
     words = nltk.word_tokenize(text)
     n_words = len(words)
@@ -18,9 +22,11 @@ def gopher_quality_filter(text: str) -> bool:
     
     # Number of lines ending with ellipsis check
     ellipsis = 0
-    if text.split().endswith('...'):
-        ellipsis += 1
-    if ellipsis/len(text.split()) > 0.3:
+    lines = text.splitlines()  # or use `text.split('.')` if working with sentences
+    for line in lines:
+        if line.strip().endswith('...'):
+            ellipsis += 1
+    if len(lines) > 0 and ellipsis / len(lines) > 0.3:
         return False
 
     # Non alpha check
