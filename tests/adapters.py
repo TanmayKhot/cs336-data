@@ -9,6 +9,7 @@ from cs336_data.harmful_content_filter import classify_toxic_speech, classify_ns
 from cs336_data.quality_check import gopher_quality_filter
 from cs336_data.quality_classifier import classify
 from cs336_data.deduplication import exact_line_deduplication
+from cs336_data.fuzzy_deduplication import fuzzy_deduplication
 
 def run_extract_text_from_html_bytes(html_bytes: bytes) -> str | None:
     return extract_text_from_html_bytes(html_bytes)
@@ -71,4 +72,12 @@ def run_minhash_deduplication(
     jaccard_threshold: float,
     output_directory: os.PathLike,
 ):
+    return fuzzy_deduplication(
+        input_files,
+        num_hashes,
+        num_bands,
+        ngrams,
+        jaccard_threshold,
+        output_directory
+    )
     raise NotImplementedError
