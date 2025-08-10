@@ -6,6 +6,16 @@ For a full description of the assignment, see the assignment handout at
 If you see any issues with the assignment handout or code, please feel free to
 raise a GitHub issue or open a pull request with a fix.
 
+
+## Topics covered
+
+1. Convert Common Crawl HTML to text.
+2. Filter the extracted text with various methods (e.g., harmful content, personal identifiable information,
+etc.).
+3. Deduplicate the training data.
+
+<u>All assignment-related code files, implementations are located in the `cs336_data` directory</u>
+
 ## Setup
 
 This directory is organized as follows:
@@ -40,3 +50,5 @@ To submit, run `./test_and_make_submission.sh` . This script will install your
 code's dependencies, run tests, and create a gzipped tarball with the output. We
 should be able to unzip your submitted tarball and run
 `./test_and_make_submission.sh` to verify your test results.
+
+
